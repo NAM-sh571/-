@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "mode": "not_started",
+  "disclaimer": "자동 수집은 배포 후 첫 예약 실행부터 시작. 기존 목록의 최신성 검증 완료를 의미하지 않음.",
+  "summary": {"checked": 0, "ok": 0, "changed_review": 0, "restricted": 0, "failed": 0, "pending_candidates": 0, "search_queries_ok": 0, "search_queries_failed": 0},
+  "monitors": [], "candidates": [], "search_status": []
+}

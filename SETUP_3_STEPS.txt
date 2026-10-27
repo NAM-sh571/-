@@ -1,0 +1,13 @@
+MEDIA FINDER 자동 최신화 켜기
+
+1) GitHub에 새 공개 Repository 만들고, 압축 해제한 파일 전체(하위 .github 폴더 포함)를 저장소 루트에 업로드
+2) Settings > Pages > Source를 GitHub Actions로 설정
+3) Actions > MEDIA FINDER - daily update and deploy > Run workflow 수동 실행
+
+성공 후 매일 한국시간 약 09:15 자동 점검/배포됩니다. (GitHub의 일정은 지연될 수 있습니다.)
+네이버·구글 자동 검색을 강화하려면 저장소 Secrets에 NAVER_CLIENT_ID / NAVER_CLIENT_SECRET,
+GOOGLE_CSE_API_KEY / GOOGLE_CSE_ID를 추가하세요. Bing RSS 검색은 기본으로 시도합니다.
+
+* ChatGPT의 신규 매체 조사 알림은 별도로 이미 매주 월요일 오전 8시 전후로 등록됨.
+* 미확인 매체는 검토 대기 표시. 소개서 변경 여부는 사람의 최종 확인이 필요.
+* 개인이 직접 업로드한 소개서는 브라우저에 저장되며 서버로 자동 전송되지 않습니다.

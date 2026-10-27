@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-27T06:32:51+00:00",
+  "mode": "offline_example",
+  "disclaimer": "검색 후보는 미검증. 변경 감지는 문서 개정 확증이 아님.",
+  "summary": {
+    "checked": 0,
+    "ok": 0,
+    "changed_review": 0,
+    "restricted": 0,
+    "failed": 0,
+    "pending_candidates": 0,
+    "search_queries_ok": 0,
+    "search_queries_failed": 0
+  },
+  "monitors": [
+    {
+      "id": "tmap",
+      "name": "TMAP",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "hwahae",
+      "name": "화해",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "zigbang",
+      "name": "직방·호갱노노",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "ohouse",
+      "name": "오늘의집",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "daangn",
+      "name": "당근",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "toss",
+      "name": "토스애즈",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "skyscanner",
+      "name": "스카이스캐너",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "kream",
+      "name": "KREAM",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "kmong",
+      "name": "크몽",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "remember",
+      "name": "리멤버",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "newneek",
+      "name": "뉴닉",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "naverads",
+      "name": "네이버 광고",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "googleads",
+      "name": "Google Ads",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "kakaoads",
+      "name": "카카오 광고",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "kakaogift",
+      "name": "카카오 선물하기 광고",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "coupangads",
+      "name": "쿠팡 광고",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "spotifyads",
+      "name": "Spotify Advertising",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "tiktokads",
+      "name": "TikTok for Business",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "singles",
+      "name": "싱글즈 SINGLES",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "kakaovx",
+      "name": "카카오 VX",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "ddiary",
+      "name": "닥터다이어리",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "doplesoft",
+      "name": "도플소프트",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "therich",
+      "name": "더리치",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "act",
+      "name": "액트 ACT",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "moim",
+      "name": "소모임",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "sinor",
+      "name": "시놀 Sinor",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "catchfrog",
+      "name": "캐치프로그",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "edaero",
+      "name": "이대로",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "oneulschool",
+      "name": "오늘학교",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "contestkorea",
+      "name": "콘테스트코리아",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "foodcon",
+      "name": "푸드콘",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "uppity",
+      "name": "어피티 UPPITY",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "assistfit",
+      "name": "어시스트핏 Assistfit",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    },
+    {
+      "id": "kkokio",
+      "name": "꼬끼오 알람",
+      "status": "not_checked",
+      "message": "오프라인 시연; 접속 확인하지 않음"
+    }
+  ],
+  "candidates": [],
+  "search_status": []
+}
