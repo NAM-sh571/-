@@ -283,7 +283,7 @@
     panel.className="audience-panel compact-audience";
     panel.id="audience-panel";
     panel.innerHTML=`<summary class="compact-facet-summary">
-        <span class="compact-title">⚙️ 상세 필터 펼치기 <small>연령 · 성별 · 관심사 · 지역 · 생애주기 · 광고상품 등 복합 선택</small></span>
+        <span class="compact-title">⚙️ 상세 다중 필터 펼치기 <small>연령 · 성별 · 관심사 · 지역 · 생애주기 · 광고상품 등 복합 선택</small></span>
         <span class="facet-count" id="facet-count">선택 없음</span>
       </summary>
       <div class="compact-facet-body">
@@ -295,15 +295,17 @@
         <p class="facet-note">같은 분류의 선택 항목은 OR, 다른 분류끼리는 AND로 검색합니다.
           자료에서 확인하지 못한 조건은 추가 확인이 필요한 후보로 표시할 수 있으며, 실제 광고 타깃팅 가능 여부는 별도 확인이 필요합니다.</p>
       </div>`;
-    bar.parentElement.insertBefore(panel,bar);
+    // Place after category and source-type controls, still inside the white filter box.
+    // This remains below the smart audience query panel and immediately above the result count.
+    bar.appendChild(panel);
     const css=document.createElement("style");
     css.textContent=`
-      .compact-audience{margin:0 0 14px!important;padding:0!important;border:1px solid #d8e5f4!important;border-radius:12px!important;background:#fff!important;box-shadow:none!important}
-      .compact-facet-summary{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 16px;cursor:pointer;list-style:none}
+      .compact-audience{display:block!important;width:100%;margin:16px 0 0!important;padding:0!important;border:1px solid #adcdf7!important;border-radius:11px!important;background:#eff6ff!important;box-shadow:0 0 0 1px #d9e9ff44!important}\n      .compact-audience[open]{background:#fff!important}
+      .compact-facet-summary{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 16px;cursor:pointer;list-style:none;min-height:52px}
       .compact-facet-summary::-webkit-details-marker{display:none}
       .compact-facet-summary::before{content:"▸";color:#2d6dae;font-size:12px;transition:transform .15s}
       .compact-audience[open] .compact-facet-summary::before{transform:rotate(90deg)}
-      .compact-title{font-size:13px;color:#274f78;font-weight:800;flex:1}
+      .compact-title{font-size:14px;color:#1454a6;font-weight:800;flex:1}
       .compact-title small{font-size:10px;font-weight:400;color:#7890aa;margin-left:8px}
       .compact-facet-body{border-top:1px solid #e8eef7;padding:15px}
       .compact-audience .facet-count{white-space:nowrap}
