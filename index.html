@@ -89,6 +89,7 @@
  </div></main></div>
 <div id="portal"></div><input id="import-file" type="file" accept=".json,.zip,application/json,application/zip" class="hidden">
 <script src="./audience-filters-v2.js"></script>
+<script src="./smart-target-search.js"></script>
 <script>
 (()=>{'use strict';
 const TODAY='2026-10-26';
@@ -384,6 +385,7 @@ $('#import-file').addEventListener('change',async e=>{let file=e.target.files[0]
  custom=data.custom;favorites=data.favorites;persist();close();render();toast('백업 데이터를 복원했습니다.');
  }catch(err){toast(err.message||'가져오기 실패')}finally{e.target.value=''}});
 window.MediaTargetFilters.init(render,all);
+window.SmartTargetSearch.init({getAll:all,getProfile:window.MediaTargetFilters.profile,openDetail:detail});
 render();
 refreshSync();
 setInterval(refreshSync,30*60*1000);
