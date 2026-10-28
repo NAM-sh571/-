@@ -26,6 +26,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install PDF text parser
+        run: python -m pip install 'pypdf>=5,<7'
+      - name: Run offline source-monitor tests
+        run: python -m unittest tests -v
       - name: Check public media sources and discover candidates
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
@@ -37,7 +41,7 @@ jobs:
         run: |
           git config user.name 'media-finder-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/scan.json
+          git add data/scan.json data/review_queue.json
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh media source scan data'
             git pull --rebase origin main
