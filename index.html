@@ -384,7 +384,7 @@ $('#import-file').addEventListener('change',async e=>{let file=e.target.files[0]
  if(zip){for(let item of data.custom){let raw=obj.custom.find(x=>x.id===item.id);let path=raw?.backupPath;if(path&&zip.file(path)){let content=await zip.file(path).async('blob');let name=path.split('/').pop();let stored=new File([content],name,{type:content.type||'application/octet-stream'});await saveFile(item.id,stored);item.localFileId=item.id;item.fileName=name}}}
  custom=data.custom;favorites=data.favorites;persist();close();render();toast('백업 데이터를 복원했습니다.');
  }catch(err){toast(err.message||'가져오기 실패')}finally{e.target.value=''}});
-window.MediaTargetFilters.init(render,all);
+// 상세 다중 필터 UI 비활성화: 자연어 타깃 검색과 매체 태그 분석은 유지합니다.
 window.SmartTargetSearch.init({getAll:all,getProfile:window.MediaTargetFilters.profile,openDetail:detail});
 render();
 refreshSync();
