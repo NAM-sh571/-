@@ -223,7 +223,7 @@
     const clear=$("#facet-clear");
     if(clear)clear.disabled=!hasFilters();
     const count=$("#facet-count");
-    if(count)count.textContent=hasFilters()?selectionSummary().length+"개 선택":"자유롭게 조합";
+    if(count)count.textContent=hasFilters()?selectionSummary().length+"개 선택":"선택 없음";
   }
   function drawGroups(){
     return ALL_KEYS.map(k=>`<fieldset class="facet-group" data-group="${k}"><legend>${escapeHtml(TITLES[k])}</legend><p class="facet-group-note">${escapeHtml(NOTES[k])}</p><div class="facet-options">${OPTIONS[k].map(v=>`<button type="button" class="facet-opt" data-facet="${k}" data-value="${escapeHtml(v)}" aria-pressed="false">${escapeHtml(v)}</button>`).join("")}</div></fieldset>`).join("");
@@ -276,8 +276,56 @@
       @media(max-width:640px){.audience-panel{padding:13px}.audience-grid,.landscape{grid-template-columns:1fr}.facet-group{padding:9px}}
     `;
     document.head.appendChild(style);
-    // 상세 다중 필터는 자연어 검색으로 대체되었습니다.
-    // 매체 분류 태그 및 소개서 분석 함수는 유지합니다.
+    // 기존 8개 다중 필터를 접힌 상태로 노출: 자연어 검색 아래에서 필요할 때만 펼칩니다.
+    const bar=$(".filterbar");
+    if(!bar)return;
+    const panel=document.createElement("details");
+    panel.className="audience-panel compact-audience";
+    panel.id="audience-panel";
+    panel.innerHTML=`<summary class="compact-facet-summary">
+        <span class="compact-title">⚙️ 상세 필터 펼치기 <small>연령 · 성별 · 관심사 · 지역 · 생애주기 · 광고상품 등 복합 선택</small></span>
+        <span class="facet-count" id="facet-count">선택 없음</span>
+      </summary>
+      <div class="compact-facet-body">
+        <div class="audience-grid">${drawGroups()}</div>
+        <div class="facet-toolbar">
+          <label><input type="checkbox" id="facet-strict"> 인구통계·생애주기·지역은 검수된 태그만 보기</label>
+          <button id="facet-clear" type="button">상세 필터 초기화</button>
+        </div>
+        <p class="facet-note">같은 분류의 선택 항목은 OR, 다른 분류끼리는 AND로 검색합니다.
+          자료에서 확인하지 못한 조건은 추가 확인이 필요한 후보로 표시할 수 있으며, 실제 광고 타깃팅 가능 여부는 별도 확인이 필요합니다.</p>
+      </div>`;
+    bar.parentElement.insertBefore(panel,bar);
+    const css=document.createElement("style");
+    css.textContent=`
+      .compact-audience{margin:0 0 14px!important;padding:0!important;border:1px solid #d8e5f4!important;border-radius:12px!important;background:#fff!important;box-shadow:none!important}
+      .compact-facet-summary{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 16px;cursor:pointer;list-style:none}
+      .compact-facet-summary::-webkit-details-marker{display:none}
+      .compact-facet-summary::before{content:"▸";color:#2d6dae;font-size:12px;transition:transform .15s}
+      .compact-audience[open] .compact-facet-summary::before{transform:rotate(90deg)}
+      .compact-title{font-size:13px;color:#274f78;font-weight:800;flex:1}
+      .compact-title small{font-size:10px;font-weight:400;color:#7890aa;margin-left:8px}
+      .compact-facet-body{border-top:1px solid #e8eef7;padding:15px}
+      .compact-audience .facet-count{white-space:nowrap}
+      .compact-audience .facet-opt[aria-pressed="true"]{background:#2563eb;color:#fff;border-color:#2563eb}
+      @media(max-width:620px){.compact-title small{display:block;margin:3px 0 0}.compact-facet-summary{padding:12px}}
+    `;
+    document.head.appendChild(css);
+    panel.addEventListener("click",event=>{
+      const button=event.target.closest("button");
+      if(!button)return;
+      if(button.id==="facet-clear"){reset();return;}
+      if(button.dataset.facet){
+        const key=button.dataset.facet,value=button.dataset.value;
+        if(!Object.hasOwn(OPTIONS,key)||!OPTIONS[key].includes(value))return;
+        state[key]=state[key].includes(value)?state[key].filter(v=>v!==value):[...state[key],value];
+        redraw();
+      }
+    });
+    panel.addEventListener("change",event=>{
+      if(event.target.id==="facet-strict"){verifiedOnly=event.target.checked;redraw();}
+    });
+    refreshUI();
   }
   function preset(name){
     const d={
