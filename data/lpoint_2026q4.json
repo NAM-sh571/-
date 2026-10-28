@@ -1,0 +1,226 @@
+{
+  "id": "lpoint",
+  "document": "L.POINT_통합 광고 상품소개서_26년 4Q_2610.pdf",
+  "period": "2026 4Q",
+  "documentPages": 27,
+  "reviewedAt": "2026-10-28",
+  "privacy": "사용자가 업로드한 원본 PDF는 공개 저장소에 게시하지 않음",
+  "audience": {
+    "femaleShare": "70%",
+    "age30and40Combined": "62%",
+    "mau": "100만",
+    "dau": "22만",
+    "cumulativeDownloads": "1,100만 이상",
+    "annualPointUsageRate": "95%",
+    "sourcePdfPage": 3,
+    "note": "여성 70% 및 30~40대 62%는 별도 구성비이며 '30~40대 여성 62%'가 아니다."
+  },
+  "dmp": {
+    "uniqueAdID": "6,400만",
+    "onlineOfflineAudience": "3,100만",
+    "targeting": [
+      "성·연령",
+      "구매이력·관심사",
+      "검색 데이터",
+      "거주지역",
+      "소득·소비 세그먼트",
+      "통신·기기",
+      "롯데 VIP 고객"
+    ],
+    "sourcePdfPage": 5
+  },
+  "vip": {
+    "departmentStore": "약 15만명",
+    "dutyFree": "약 14만명",
+    "hotel": "약 11만명",
+    "sourcePdfPage": 12
+  },
+  "pricing": {
+    "currency": "KRW",
+    "dm": [
+      {
+        "name": "LMS 일반",
+        "placement": "문자(텍스트)",
+        "listedRate": "80원/건",
+        "discountRate": "80원/건",
+        "estimatedCTR2024": "4.2%",
+        "minBudget": "200만원"
+      },
+      {
+        "name": "LMS VIP",
+        "placement": "문자(텍스트)",
+        "listedRate": "200원/건",
+        "discountRate": "200원/건",
+        "estimatedCTR2024": "4.2%",
+        "minBudget": "500만원"
+      },
+      {
+        "name": "MMS 일반",
+        "placement": "문자(텍스트+이미지)",
+        "listedRate": "120원/건",
+        "discountRate": "120원/건",
+        "estimatedCTR2024": "2.5%",
+        "minBudget": "200만원"
+      },
+      {
+        "name": "MMS VIP",
+        "placement": "문자(텍스트+이미지)",
+        "listedRate": "240원/건",
+        "discountRate": "240원/건",
+        "estimatedCTR2024": "2.5%",
+        "minBudget": "500만원"
+      },
+      {
+        "name": "APP PUSH",
+        "placement": "L.POINT 앱 푸시",
+        "listedRate": "50원/건",
+        "discountRate": "50원/건",
+        "estimatedCTR2024": "0.5%",
+        "minBudget": "200만원"
+      },
+      {
+        "name": "카카오톡 채널 메시지",
+        "placement": "카카오톡 L.POINT 채널",
+        "listedRate": "100원/건",
+        "discountRate": "100원/건",
+        "estimatedCTR2024": "2.3%",
+        "minBudget": "300만원"
+      }
+    ],
+    "dmSourcePdfPage": 13,
+    "da": [
+      {
+        "name": "동영상 배너",
+        "placement": "혜택 최상단",
+        "listedRate": "CPM 4,000원",
+        "discountRate": "CPM 4,000원",
+        "estimatedCTR2024": "0.2%",
+        "minBudget": "300만원"
+      },
+      {
+        "name": "브랜드 전용관",
+        "placement": "혜택·라운지탭",
+        "listedRate": "CPP 500만원/월",
+        "discountRate": "CPP 500만원/월",
+        "estimatedCTR2024": "—",
+        "minBudget": "500만원"
+      },
+      {
+        "name": "시작 팝업",
+        "placement": "앱 시작팝업",
+        "listedRate": "CPM 3,000원",
+        "discountRate": "CPM 3,000원",
+        "estimatedCTR2024": "1.2%",
+        "minBudget": "300만원"
+      },
+      {
+        "name": "스플래시 배너",
+        "placement": "앱 실행 스플래시",
+        "listedRate": "CPP 200만원/일",
+        "discountRate": "CPP 200만원/일",
+        "estimatedCTR2024": "—",
+        "minBudget": "200만원"
+      },
+      {
+        "name": "메인리워드 DA",
+        "placement": "혜택 최상단",
+        "listedRate": "CPM 3,600원",
+        "discountRate": "CPM 3,000원",
+        "estimatedCTR2024": "6.5%",
+        "minBudget": "300만원"
+      },
+      {
+        "name": "메인통합 DA",
+        "placement": "혜택 최상단·출석체크 완료 팝업",
+        "listedRate": "CPM 2,400원",
+        "discountRate": "CPM 1,500원",
+        "estimatedCTR2024": "0.5%",
+        "minBudget": "300만원"
+      },
+      {
+        "name": "리워드 DA",
+        "placement": "혜택 페이지 중단",
+        "listedRate": "CPM 3,600원",
+        "discountRate": "CPM 3,000원",
+        "estimatedCTR2024": "35%",
+        "minBudget": "300만원"
+      },
+      {
+        "name": "종료 배너",
+        "placement": "앱 종료 팝업",
+        "listedRate": "CPM 3,000원",
+        "discountRate": "CPM 3,000원",
+        "estimatedCTR2024": "0.6%",
+        "minBudget": "300만원"
+      },
+      {
+        "name": "메인하단 배너",
+        "placement": "혜택 메인하단",
+        "listedRate": "CPM 3,000원",
+        "discountRate": "CPM 3,000원",
+        "estimatedCTR2024": "0.3%",
+        "minBudget": "300만원"
+      },
+      {
+        "name": "모아락(잠금화면)",
+        "placement": "모바일 잠금화면",
+        "listedRate": "CPM 3,000원",
+        "discountRate": "CPM 3,000원",
+        "estimatedCTR2024": "1.5%",
+        "minBudget": "300만원"
+      }
+    ],
+    "daSourcePdfPage": 25,
+    "packages": [
+      {
+        "name": "원데이 패키지",
+        "price": "500만원",
+        "duration": "1일",
+        "expected": "노출 300만 / CTR 3.3%",
+        "items": [
+          "스플래시 배너",
+          "시작/종료 팝업",
+          "모아락",
+          "메인리워드 DA"
+        ],
+        "service": "30%"
+      },
+      {
+        "name": "타겟 패키지",
+        "price": "1,000만원",
+        "duration": "2주",
+        "expected": "노출 500만 / DM 발송 10만 / CTR 9%",
+        "items": [
+          "DM(LMS 또는 카카오톡 채널)",
+          "모아락",
+          "메인리워드 DA"
+        ],
+        "service": "200%"
+      },
+      {
+        "name": "스플래시 패키지",
+        "price": "1,000만원",
+        "duration": "1주",
+        "expected": "노출 660만 / CTR 1%",
+        "items": [
+          "스플래시 배너",
+          "메인리워드 DA"
+        ],
+        "service": "100%"
+      }
+    ],
+    "packageSourcePdfPage": 26
+  },
+  "source": {
+    "pdf": "사용자 제공 PDF (원본은 비공개)",
+    "officialInquiryUrl": "https://m.lpoint.com/app/center/LWAL100100.do",
+    "publicPdfUrl": null,
+    "adEmail": null
+  },
+  "disclaimers": [
+    "DM/DA eCTR 수치는 소개서에 '2024년 기준'으로 표시된 예상치",
+    "패키지는 VAT 별도. 일반 단품 단가 VAT 처리 및 대행 수수료는 확인 필요",
+    "공개용 광고 담당 이메일은 소개서에서 확인되지 않음",
+    "집행 가능 여부 및 단가 변동은 담당자 확인 필요"
+  ]
+}
