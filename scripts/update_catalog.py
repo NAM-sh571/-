@@ -121,7 +121,7 @@ def monitor(entry, previous, now, fetch=network_fetch):
                                               'no_longer_detected':[old_url],
                                               'review_status':'pending',
                                               'verification':'unverified_source_url_change'})
-        pdf_change=obj['raw_changed'] and observation.get('kind')=='pdf'
+        pdf_change=bool(old_snapshot) and obj['raw_changed'] and observation.get('kind')=='pdf' and observation.get('complete')
         # PDF changed with no readable/changed signals: needs a document-level human review.
         if pdf_change and not obj['change_candidates']:
             obj['change_candidates'].append({'field':'pdf_content',
