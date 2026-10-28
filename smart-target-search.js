@@ -171,7 +171,7 @@
     if(!matched.length)return null;
     if(matched.some(m=>m.key==="life"&&m.value==="유치원"))score=Math.min(100,score+3);
     if(concreteTerm){
-      if(contextText.includes(concreteTerm))score=Math.min(100,score+13);
+      if(contextText.includes(concreteTerm))score=Math.min(100,Math.max(score+24,concreteTerm==="유치원"?score+13:78));
       else if(concreteTerm!=="유치원"&&concreteTerm!=="게임")score=Math.max(0,score-23);
     }
     let tier=score>=73?"상위 관련 후보":score>=45?"관련 매체":"확인 필요 후보";
