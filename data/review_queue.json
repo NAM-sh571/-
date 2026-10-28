@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T08:42:58+00:00",
-  "disclaimer": "초기 비교 기준 변동에 따른 PDF 원본 해시 오탐 11건 정리. 이후 내용 변경 후보는 재수집해 표시합니다.",
+  "generated_at": "2026-10-28T08:43:47+00:00",
+  "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
     "total": 0,
     "pending": 0,
