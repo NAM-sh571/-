@@ -1270,5 +1270,215 @@
     "bg": "#eaf5ff",
     "fg": "#2d84c1",
     "archiveUrl": "./parenting-media.html#ivory"
+  },
+  {
+    "id": "kakaopay-ads",
+    "name": "카카오페이 광고",
+    "subtitle": "공식 광고센터",
+    "category": "금융·핀테크",
+    "summary": "결제·송금 등 금융 이용 맥락 및 마이데이터 기반 금융 플랫폼 광고",
+    "products": [
+      "전면 팝업",
+      "풀스크린 배너",
+      "혜택 배너",
+      "APP PUSH",
+      "카카오 채널 메시지",
+      "핏배너"
+    ],
+    "target": "카카오페이 서비스 이용 고객. 자사·마이데이터 타깃팅은 상품별 운영 정책 확인",
+    "deckType": "guide",
+    "deckUrl": "https://ads.kakaopay.com/",
+    "deckLabel": "공식 광고센터·소개서 보기",
+    "contactType": "form",
+    "contact": "",
+    "contactUrl": "https://kakaopay.com/qna/advertising/onboarding",
+    "website": "https://ads.kakaopay.com/",
+    "source": "카카오페이 공식 광고센터",
+    "note": "공식 광고상품 소개와 CPC/CPM/CPP/CPA 정책 확인. 특정 성별·연령 비율은 이 항목에서 확정하지 않음.",
+    "audience": {
+      "vertical": [
+        "금융"
+      ],
+      "interest": [
+        "금융상품",
+        "재테크·투자"
+      ],
+      "format": [
+        "배너",
+        "스플래시·팝업",
+        "푸시",
+        "리워드"
+      ]
+    },
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "카",
+    "bg": "#edf5ff",
+    "fg": "#1e6eaa"
+  },
+  {
+    "id": "inven",
+    "name": "인벤 INVEN",
+    "subtitle": "2026 공식 광고상품소개서",
+    "category": "게임",
+    "summary": "게임 콘텐츠·커뮤니티 이용자를 대상으로 하는 PC·모바일 디스플레이 및 게임 마케팅 상품",
+    "products": [
+      "PC TOP 배너",
+      "모바일 TOP 배너",
+      "백스킨",
+      "브랜딩",
+      "동영상 확장 광고",
+      "사전예약 Pick"
+    ],
+    "target": "게임 뉴스·커뮤니티 방문자. 세부 연령·성별 비중은 소개서에서 별도 확인",
+    "deckType": "direct",
+    "deckUrl": "https://ads.inven.co.kr/ad/Docu/INVEN-20260106-AdvertisementProductIntroduction%5BKR%5D.pdf",
+    "deckLabel": "2026 인벤 공식 광고상품소개서 PDF",
+    "contactType": "email",
+    "contact": "ad@inven.co.kr",
+    "contactUrl": "https://ads.inven.co.kr/",
+    "website": "https://www.inven.co.kr/",
+    "source": "인벤 공식 2026 광고상품소개서",
+    "note": "공식 PDF 후반부에 ad@inven.co.kr 및 상품·집행 프로세스 명시. 상세 단가는 문의 필요.",
+    "audience": {
+      "vertical": [
+        "게임",
+        "엔터테인먼트"
+      ],
+      "interest": [
+        "게임"
+      ],
+      "format": [
+        "배너",
+        "동영상",
+        "브랜디드"
+      ]
+    },
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "인",
+    "bg": "#edf5ff",
+    "fg": "#1e6eaa"
+  },
+  {
+    "id": "aptner",
+    "name": "아파트너",
+    "subtitle": "2026 Q3 광고 자료",
+    "category": "부동산",
+    "summary": "아파트 입주민 앱과 관리비·공지·시설 예약 등 주거 생활 맥락의 하이퍼로컬 광고",
+    "products": [
+      "인앱 배너",
+      "게시판 광고",
+      "단지 타깃 광고",
+      "생활 플랫폼 광고"
+    ],
+    "target": "아파트 입주민 및 단지 기반 지역 타깃 광고",
+    "deckType": "guide",
+    "deckUrl": "https://aptnerad.oopy.io/",
+    "deckLabel": "공식 2026 Q3 아파트너 광고소개",
+    "contactType": "email",
+    "contact": "ad@aptner.com",
+    "contactUrl": "https://aptnerad.oopy.io/",
+    "website": "https://www.aptner.com/",
+    "source": "아파트너 광고 소개 2026 Q3",
+    "note": "광고 소개 페이지에 공개 광고문의 이메일 확인. 이용자 거주 단지 타깃과 지역 설정의 상세 범위는 영업 담당자 확인.",
+    "audience": {
+      "vertical": [
+        "부동산",
+        "가족·생활"
+      ],
+      "interest": [
+        "부동산·이사",
+        "인테리어·리빙",
+        "로컬·맛집"
+      ],
+      "region": [
+        "지역 타깃팅 가능"
+      ],
+      "format": [
+        "배너"
+      ]
+    },
+    "audienceReviewed": true,
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "아",
+    "bg": "#edf5ff",
+    "fg": "#1e6eaa"
+  },
+  {
+    "id": "kidsnote",
+    "name": "키즈노트",
+    "subtitle": "공식 광고상품 소개",
+    "category": "육아·키즈",
+    "summary": "어린이집·유치원 학부모와 교사를 연결하는 알림장 기반 영유아 보육 플랫폼 광고",
+    "products": [
+      "광고상품 소개서 요청",
+      "앱 광고"
+    ],
+    "target": "어린이집·유치원 이용 학부모·교직원. 구체적 광고 타깃팅 가능 항목은 공식 자료 문의",
+    "deckType": "guide",
+    "deckUrl": "https://www.with-kidsnote.com/",
+    "deckLabel": "공식 홈페이지 광고상품 소개서 메뉴",
+    "contactType": "form",
+    "contact": "",
+    "contactUrl": "https://www.with-kidsnote.com/",
+    "website": "https://www.with-kidsnote.com/",
+    "source": "키즈노트 공식 웹사이트 광고상품 소개서 안내",
+    "note": "공식 사이트에 광고 상품 소개서 메뉴 존재. contact@kidsnote.com은 일반 고객센터 주소로 확인되어 광고 담당 메일로 등록하지 않음.",
+    "audience": {
+      "vertical": [
+        "육아",
+        "교육"
+      ],
+      "interest": [
+        "육아·키즈",
+        "학습·수험"
+      ],
+      "life": [
+        "영유아",
+        "유치원",
+        "학부모"
+      ]
+    },
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "키",
+    "bg": "#edf5ff",
+    "fg": "#1e6eaa"
+  },
+  {
+    "id": "myrealtrip",
+    "name": "마이리얼트립",
+    "subtitle": "공식 광고 문의",
+    "category": "여행·항공",
+    "summary": "여행 상품·투어·티켓 검색 및 예약 맥락에 광고 문의 채널을 제공하는 여행 플랫폼",
+    "products": [
+      "광고 제휴 문의"
+    ],
+    "target": "투어·항공권·숙박·액티비티 탐색 여행객. 구체적 광고 지면/타깃팅 상품은 문의 필요",
+    "deckType": "guide",
+    "deckUrl": "https://www.myrealtrip.com/promotions/benefit",
+    "deckLabel": "공식 사이트 광고 문의 안내",
+    "contactType": "email",
+    "contact": "ad@myrealtrip.com",
+    "contactUrl": "https://www.myrealtrip.com/promotions/benefit",
+    "website": "https://www.myrealtrip.com/",
+    "source": "마이리얼트립 공식 사이트 푸터 광고 문의",
+    "note": "광고전용 이메일 ad@myrealtrip.com 확인. marketing_partner@myrealtrip.com은 제휴·수익화 파트너용이므로 광고 문의와 구분. 소개서 PDF 미확인.",
+    "audience": {
+      "vertical": [
+        "여행"
+      ],
+      "interest": [
+        "해외여행",
+        "국내여행"
+      ]
+    },
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "마",
+    "bg": "#edf5ff",
+    "fg": "#1e6eaa"
   }
 ]
