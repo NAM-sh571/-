@@ -276,46 +276,8 @@
       @media(max-width:640px){.audience-panel{padding:13px}.audience-grid,.landscape{grid-template-columns:1fr}.facet-group{padding:9px}}
     `;
     document.head.appendChild(style);
-    const bar=$(".filterbar");
-    if(!bar)return;
-    const panel=document.createElement("section");panel.className="audience-panel";panel.id="audience-panel";
-    panel.innerHTML=`
-      <div class="audience-title-row"><div><b>🎯 매체 상세 다중 필터</b><small>업종 · 연령 · 성별 · 관심사 · 지역 등 8개 그룹 조합 검색</small></div>
-      <span class="facet-count" id="facet-count">자유롭게 조합</span></div>
-      <div class="audience-presets">${[
-        ["mom3040","30·40대 엄마"],["elementary","초등 학부모"],["baby","영유아 부모"],
-        ["beauty2030","20·30대 뷰티"],["finance","직장인·재테크"],["travel","여행 고객"],["local","지역 타깃"],["health","건강·운동"]
-      ].map(([k,v])=>`<button class="preset-btn" data-preset="${k}" type="button">${v}</button>`).join("")}</div>
-      <div id="facet-body"><div class="audience-grid">${drawGroups()}</div>
-      <div class="facet-toolbar"><label><input id="facet-strict" type="checkbox"> 인구통계·생애주기·지역은 확인된 자료 태그만 보기</label>
-      <button id="facet-clear" type="button">선택 초기화</button></div>
-      <p class="facet-note"><b>필터 규칙:</b> 동일 그룹 안에서는 OR, 서로 다른 그룹 사이에서는 AND를 적용합니다. 이용자 구성비는 광고 타깃팅 지원과 다릅니다. 지역은 특정 지명 타깃팅 가능 여부가 확인되지 않으면 '미확인'으로 처리합니다. 이용자 조건이 일부 부족한 매체는 '추가 확인 필요'로 표시합니다.</p>
-      </div><div class="audience-active" id="facet-active"></div>`;
-    bar.appendChild(panel);
-    const line=$(".resultline");
-    if(line){
-      const tools=document.createElement("div");tools.className="landscape-toggle-row";tools.style.margin="0 0 12px";
-      tools.innerHTML='<span id="audience-result-note" style="font-size:11px;color:#6e8198"></span><button class="btn-outline" id="landscape-toggle" type="button">◫ 미디어 랜드스케이프</button>';
-      line.insertAdjacentElement("afterend",tools);
-    }
-    const cards=$("#cards");
-    if(cards){const grid=document.createElement("div");grid.id="landscape";grid.className="landscape";grid.style.display="none";cards.insertAdjacentElement("afterend",grid);}
-    panel.addEventListener("click",ev=>{
-      const b=ev.target.closest("button");if(!b)return;
-      if(b.id==="facet-clear"){reset();return;}
-      if(b.dataset.facet){
-        const k=b.dataset.facet, v=b.dataset.value;
-        state[k]=state[k].includes(v)?state[k].filter(z=>z!==v):[...state[k],v];redraw();return;
-      }
-      if(b.dataset.preset){preset(b.dataset.preset);return;}
-      if(b.dataset.removeFacet){
-        const k=b.dataset.removeFacet, v=b.dataset.removeValue;
-        state[k]=state[k].filter(x=>x!==v);redraw();
-      }
-    });
-    panel.addEventListener("change",ev=>{if(ev.target.id==="facet-strict"){verifiedOnly=ev.target.checked;redraw();}});
-    $("#landscape-toggle")?.addEventListener("click",()=>{landscape=!landscape;redraw();});
-    refreshUI();
+    // 상세 다중 필터는 자연어 검색으로 대체되었습니다.
+    // 매체 분류 태그 및 소개서 분석 함수는 유지합니다.
   }
   function preset(name){
     const d={
