@@ -21,11 +21,13 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 from xml.etree import ElementTree
 
+from source_intelligence import extract_source, compare_snapshots
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / 'data'
 AGENT = 'Mozilla/5.0 (compatible; MediaFinderSourceMonitor/1.0; public-document-monitor)'
 TIMEOUT = 9
-MAX_BYTES = 1600000
+MAX_BYTES = 5000000
 ALLOWED_MEDIA_DOMAINS = set()  # only known URLs scanned, not arbitrary submitted URLs
 SEARCH_QUERIES = [
     '광고상품소개서 버티컬 매체 2026',
@@ -85,42 +87,66 @@ def network_fetch(url, extra_headers=None):
 
 
 def monitor(entry, previous, now, fetch=network_fetch):
+    """Check a known URL; submit observations for review, never update catalog facts."""
     url = cleaned_url(entry.get('deckUrl'))
     name, id_ = entry.get('name',''), entry.get('id','')
     obj = {'id':id_, 'name':name, 'source_url':url, 'checked_at':now,
            'status':'not_checked','http_status':None,'changed':False,
            'changed_at': previous.get('changed_at'), 'first_checked_at':previous.get('first_checked_at') or now,
            'last_success_at':previous.get('last_success_at'), 'fingerprint':previous.get('fingerprint'),
+           'snapshot':previous.get('snapshot') if isinstance(previous.get('snapshot'),dict) else None,
+           'change_candidates':[], 'raw_changed':False,
            'message':'', 'deck_type':entry.get('deckType','none')}
     if not url:
         obj['status']='unavailable';obj['message']='등록된 HTTPS 소개서 링크 없음'
         return obj
     try:
-        code,headers,content,truncated,final_url = fetch(url)
+        code, headers, content, truncated, final_url = fetch(url)
         obj['http_status']=code
         obj['final_url']=final_url
         obj['content_type']=(headers.get('Content-Type','').split(';')[0] or '').lower()
         obj['content_length_header']=headers.get('Content-Length','')
-        # Store fingerprint for PDFs and stable HTML; changes are "review needed", not confirmed deck revision.
-        fingerprint=hashlib.sha256(content).hexdigest() if content else ''
-        if fingerprint:
-            old=previous.get('fingerprint')
-            obj['fingerprint']=fingerprint
-            if old and old != fingerprint:
-                obj['changed']=True
-                obj['changed_at']=now
-                obj['status']='changed_review'
-                obj['message']='웹페이지/파일 응답 변경 감지 (소개서 개정 여부 검토 필요)'
-        if not obj['changed']:
+        fp=hashlib.sha256(content).hexdigest() if content else ''
+        previous_fp=previous.get('fingerprint')
+        obj['raw_changed']=bool(fp and previous_fp and fp!=previous_fp)
+        if fp:obj['fingerprint']=fp
+        observation=extract_source(content,headers.get('Content-Type',''),final_url,truncated)
+        obj['snapshot']=observation
+        old_snapshot=previous.get('snapshot')
+        if old_snapshot and obj['raw_changed']:
+            obj['change_candidates']=compare_snapshots(old_snapshot,observation)
+        old_url=cleaned_url(previous.get('source_url'))
+        if old_url and old_url!=url:
+            obj['change_candidates'].append({'field':'source_url','added':[url],
+                                              'no_longer_detected':[old_url],
+                                              'review_status':'pending',
+                                              'verification':'unverified_source_url_change'})
+        pdf_change=obj['raw_changed'] and observation.get('kind')=='pdf'
+        # PDF changed with no readable/changed signals: needs a document-level human review.
+        if pdf_change and not obj['change_candidates']:
+            obj['change_candidates'].append({'field':'pdf_content',
+                  'added':['PDF 파일 응답 변경 - 최신본 여부 검토'],
+                  'no_longer_detected':[],'review_status':'pending',
+                  'verification':'unverified_binary_change'})
+        if obj['change_candidates']:
+            obj['status']='changed_review'
+            obj['changed']=True
+            obj['changed_at']=now
+            obj['message']='광고자료 변경 후보 검출 · 기존 정보는 수정하지 않음'
+        else:
             obj['status']='ok'
-            obj['message']='링크 접속 확인; 자료 최신본 검증 아님'
+            obj['message']='소개서 링크 점검 완료 · 자동 검수 전'
+            if obj['raw_changed']:
+                obj['message']='페이지 원문 변경 · 가격/상품/연락처 변경 단서 미확인 (자동 확정 안 함)'
+        if not old_snapshot:
+            obj['message']+=' · 콘텐츠 단서 기준점 수집'
         if truncated:
-            obj['message']+=' · 대용량 파일 앞부분만 비교'
+            obj['message']+=' · 용량 제한으로 파일 앞부분만 확인'
         obj['last_success_at']=now
     except HTTPError as e:
         obj['http_status']=e.code
         obj['status']='restricted' if e.code in (401,403,429) else 'error'
-        obj['message']=f'HTTP {e.code}: 사이트에서 자동 접근 제한 또는 오류 (직접 열어 재확인)'
+        obj['message']=f'HTTP {e.code}: 자동 접근 제한 또는 오류 (사람이 재확인)'
     except (URLError,TimeoutError,OSError,ValueError) as e:
         obj['status']='error'
         obj['message']=f'링크 확인 실패: {type(e).__name__}'
@@ -228,6 +254,8 @@ def run(offline=False):
     now=datetime.now(timezone.utc).isoformat(timespec='seconds')
     seeds=read(DATA/'catalog_seed.json',[])
     previous=read(DATA/'scan.json',{})
+    old_review=read(DATA/'review_queue.json',{})
+    decisions=read(DATA/'review_decisions.json',{'decisions':[]})
     old_states={x['id']:x for x in previous.get('monitors',[]) if x.get('id')}
     if not seeds:raise RuntimeError('Seed catalog is empty')
     if offline:
@@ -254,12 +282,17 @@ def run(offline=False):
     report={'schema_version':1,'generated_at':now,'mode':'offline_example' if offline else 'scheduled_monitor',
             'disclaimer':'검색 후보는 미검증. 변경 감지는 문서 개정 확증이 아님.',
             'summary':summary,'monitors':states,'candidates':results,'search_status':stats}
+    if not offline:
+        from review_queue import build_review_queue
+        review_report=build_review_queue(states,old_review,decisions,now)
+        dump(DATA/'review_queue.json',review_report)
+        report['review_summary']=review_report['summary']
     if offline:
         dump(DATA/'scan_demo.json',report)
         print('Wrote scan_demo.json; this is explicitly NOT a real monitoring result.')
     else:
         dump(DATA/'scan.json',report)
-        print('Updated scan.json:',summary)
+        print('Updated scan.json:',summary,'review queue:',report.get('review_summary'))
     return report
 
 
