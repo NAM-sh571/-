@@ -158,6 +158,10 @@
         }
       }
     }
+    if(concreteTerm&&contextText.includes(concreteTerm)){
+      maxWeight+=7;weighted+=7;
+      matched.push({key:"interest",value:concreteTerm,source:"매체 설명 근거"});
+    }
     const domain=matched.some(m=>["interest","vertical","life"].includes(m.key))||
       (intent.tags.region.length>0 && matched.some(m=>m.key==="region"));
     const genericDemographic=Object.keys(intent.tags).every(k=>["age","gender","region"].includes(k)||!intent.tags[k].length);
