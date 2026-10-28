@@ -930,5 +930,59 @@
     "short": "꼬",
     "bg": "#eaf2ff",
     "fg": "#2b65a7"
+  },
+  {
+    "id": "lpoint",
+    "name": "L.POINT",
+    "subtitle": "롯데멤버스 · 2026 4Q 상품소개서",
+    "category": "커머스·쇼핑",
+    "summary": "롯데멤버스 L.POINT·L.PAY 온·오프라인 구매 데이터 기반 DM·DA·리워드 광고. 이용자 여성 70%, 30~40대 합산 62% (각각 별도 비중)",
+    "products": [
+      "LMS",
+      "MMS",
+      "APP PUSH",
+      "카카오톡 채널 메시지",
+      "스플래시 배너",
+      "동영상 배너",
+      "리워드 DA",
+      "팝업",
+      "브랜드 전용관",
+      "모아락"
+    ],
+    "target": "여성 70% / 30~40대 합산 62% / 구매·관심사·지역·VIP 타깃팅. 엄마·학부모 비중 미확인",
+    "audience": {
+      "age": [
+        "30대",
+        "40대"
+      ],
+      "gender": [
+        "여성"
+      ],
+      "life": [],
+      "interest": [
+        "쇼핑"
+      ],
+      "format": [
+        "배너",
+        "동영상",
+        "푸시"
+      ]
+    },
+    "audienceReviewed": true,
+    "deckType": "guide",
+    "deckUrl": "./lpoint-archive.html",
+    "deckLabel": "2026년 4Q 소개서 분석 아카이브",
+    "archiveUrl": "./lpoint-archive.html",
+    "contactType": "none",
+    "contact": "",
+    "contactUrl": "",
+    "website": "https://www.lpoint.com/",
+    "source": "사용자 제공 L.POINT 2026 Q4 광고 상품소개서(27p)",
+    "note": "원본 PDF는 공개하지 않고 검토한 상품·타깃·단가를 요약. 공개 담당자 연락처 미확인. 단가, eCTR(2024년 기준) 재확인 필요.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "L",
+    "bg": "#e8f3ff",
+    "fg": "#1689e9"
   }
 ]
