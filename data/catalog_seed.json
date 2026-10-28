@@ -1413,19 +1413,27 @@
     "category": "육아·키즈",
     "summary": "어린이집·유치원 학부모와 교사를 연결하는 알림장 기반 영유아 보육 플랫폼 광고",
     "products": [
-      "광고상품 소개서 요청",
-      "앱 광고"
+      "빅배너",
+      "리스트배너",
+      "메인배너",
+      "프리미엄 포토",
+      "B2B 원장·교사 광고",
+      "스플래시",
+      "종료 팝업",
+      "푸시 알림",
+      "LMS",
+      "보상형·제휴형 광고"
     ],
     "target": "어린이집·유치원 이용 학부모·교직원. 구체적 광고 타깃팅 가능 항목은 공식 자료 문의",
     "deckType": "guide",
-    "deckUrl": "https://www.with-kidsnote.com/",
-    "deckLabel": "공식 홈페이지 광고상품 소개서 메뉴",
-    "contactType": "form",
-    "contact": "",
-    "contactUrl": "https://www.with-kidsnote.com/",
-    "website": "https://www.with-kidsnote.com/",
+    "deckUrl": "https://www.with-kidsnote.com/advertising_intro",
+    "deckLabel": "공식 광고소개서·상품 및 소재 가이드",
+    "contactType": "email",
+    "contact": "adpart@kidsnote.com",
+    "contactUrl": "https://www.with-kidsnote.com/advertising_intro",
+    "website": "https://www.with-kidsnote.com/advertising_intro",
     "source": "키즈노트 공식 웹사이트 광고상품 소개서 안내",
-    "note": "공식 사이트에 광고 상품 소개서 메뉴 존재. contact@kidsnote.com은 일반 고객센터 주소로 확인되어 광고 담당 메일로 등록하지 않음.",
+    "note": "공식 FAQ: 푸시에서 아이 연령(1~7세)·아이 성별·원 지역 타깃팅, LMS는 OS·자녀 나이 타깃 가능. 그 외 상품은 타깃팅 불가. 광고문의 adpart@kidsnote.com. 2026-10-28 확인.",
     "audience": {
       "vertical": [
         "육아",
@@ -1439,13 +1447,23 @@
         "영유아",
         "유치원",
         "학부모"
+      ],
+      "region": [
+        "지역 타깃팅 가능"
+      ],
+      "format": [
+        "배너",
+        "푸시",
+        "문자(LMS·MMS)",
+        "스플래시·팝업"
       ]
     },
     "verified": "2026-10-28",
     "custom": false,
     "short": "키",
     "bg": "#edf5ff",
-    "fg": "#1e6eaa"
+    "fg": "#1e6eaa",
+    "audienceReviewed": true
   },
   {
     "id": "myrealtrip",
