@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T08:42:07+00:00",
+  "generated_at": "2026-10-28T08:42:58+00:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
     "total": 11,
@@ -21,7 +21,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-6bb009a931c84fc67f01",
@@ -36,7 +37,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-ab43e1f9a976ac2403a4",
@@ -51,7 +53,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-e4bb2a6d5f77cd120bf7",
@@ -66,7 +69,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-9e031c94c328f5ab1449",
@@ -81,7 +85,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-91c997c036ea0f0729f2",
@@ -96,7 +101,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-294b9b03254cc846876c",
@@ -111,7 +117,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-5050e8d8e2da497f5822",
@@ -126,7 +133,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-baf4fb8611882bcfe5cb",
@@ -141,7 +149,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-f77db66a7093dbb3a8b8",
@@ -156,7 +165,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     },
     {
       "id": "review-53163af207991ddf438c",
@@ -171,7 +181,8 @@
       "verification": "unverified_binary_change",
       "status": "pending",
       "first_seen": "2026-10-28T08:42:07+00:00",
-      "last_seen": "2026-10-28T08:42:07+00:00"
+      "last_seen": "2026-10-28T08:42:07+00:00",
+      "not_observed_again": true
     }
   ]
 }
