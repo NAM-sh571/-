@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-28",
+  "kind": "confirmed_public_ad_service_or_mediakit",
+  "total": 22,
+  "items": [
+    {
+      "id": "cardoc",
+      "name": "카닥",
+      "category": "모빌리티",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "gcar",
+      "name": "G car (지카)",
+      "category": "모빌리티",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "gcoo",
+      "name": "지쿠 GCOO",
+      "category": "모빌리티",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "signaling",
+      "name": "시그널링 Signaling",
+      "category": "로컬·커뮤니티",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/en/adnote/kit/01KERN662EQHZNAWXH6MRK91GB",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "fablo",
+      "name": "FABLO",
+      "category": "금융·핀테크",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01M1JX6KXBAJD4G76F5A5W4GA1",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "caredoc",
+      "name": "케어닥",
+      "category": "헬스케어",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01K7ZT568CGE31F2WY58DHKEGE",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "atflee",
+      "name": "앳플리",
+      "category": "헬스케어",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01KM1YS6P0ZREBF48Y327BGMNY",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "ssukssuk",
+      "name": "쑥쑥찰칵",
+      "category": "육아·키즈",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01KT836ZT5KWW8HRB3XSZRY2D7",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "twenty",
+      "name": "트웬티 (캐릭터 굿즈)",
+      "category": "커머스·쇼핑",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01JCD2V7873Y5RVNDNPPNJGXPR",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "jaritalk",
+      "name": "자리톡",
+      "category": "부동산",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01JSK1RR9VA16W53MN3FCKEMHW",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "smartbill",
+      "name": "스마트빌",
+      "category": "B2B·직장인",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01KP9VJZ2MXYHQF1Q77XASHFA5",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "bookstack",
+      "name": "북적북적",
+      "category": "도서·독서",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01HFTP255XKAN4CMX8Z9FDV72T",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "publichousing",
+      "name": "공공주택알리미",
+      "category": "부동산",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01KRCZ5JYPWYHYR7QEQVZXRYEE",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "sajui",
+      "name": "사주아이",
+      "category": "뉴스·콘텐츠",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/kit/01KPZ16C20DZSTYNEWGAMJ5TQB",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "prizm",
+      "name": "PRIZM 프리즘",
+      "category": "여행·항공",
+      "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+      "url": "https://adrop.io/ko/adnote/promotion/01KTTVJN8RC41MZQYTQKNHRGHR",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "glowpick",
+      "name": "글로우픽",
+      "category": "뷰티",
+      "source": "매체 공식 홈페이지·광고센터",
+      "url": "https://glowpickad.oopy.io/",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "ablydisplay",
+      "name": "에이블리 디스플레이 광고",
+      "category": "패션",
+      "source": "매체 공식 홈페이지·광고센터",
+      "url": "https://ablyda.oopy.io/",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "jasoseol",
+      "name": "자소설닷컴 기업 광고",
+      "category": "B2B·직장인",
+      "source": "매체 공식 홈페이지·광고센터",
+      "url": "https://jasoseol.com/business",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "danawa",
+      "name": "다나와 가격비교 광고",
+      "category": "커머스·쇼핑",
+      "source": "매체 공식 홈페이지·광고센터",
+      "url": "https://img.danawa.com/new/help/cs_sub5_adv1.html",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "zigzagpowerup",
+      "name": "지그재그 파워업 광고",
+      "category": "패션",
+      "source": "매체 공식 홈페이지·광고센터",
+      "url": "https://official.zigzag.kr/partners/powerup-ai-ad/",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "petdoc-vad",
+      "name": "펫닥 브이애드",
+      "category": "반려동물",
+      "source": "매체 공식 홈페이지·광고센터",
+      "url": "https://petdoc.co.kr/contact",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    },
+    {
+      "id": "fitpet",
+      "name": "핏펫",
+      "category": "반려동물",
+      "source": "매체 공식 홈페이지·광고센터",
+      "url": "https://www.fitpetmall.com/",
+      "verification": "public_source_checked; ad manager targeting and current rates not confirmed"
+    }
+  ]
+}

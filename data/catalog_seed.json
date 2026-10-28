@@ -3202,5 +3202,1128 @@
     "researchBatch": "20261028-bulk",
     "adQualification": "집행 및 타깃팅 범위 확인 필요",
     "archiveUrl": "./research-20261028-bulk.html#gasapp"
+  },
+  {
+    "id": "cardoc",
+    "name": "카닥",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "모빌리티",
+    "summary": "차량 수리·정비 견적을 탐색하는 운전자 대상 광고 매체",
+    "products": [
+      "홈 임팩트",
+      "사고 운전자 패키지",
+      "정비 패키지",
+      "문자 광고"
+    ],
+    "target": "차량 수리·정비 견적을 탐색하는 운전자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+    "website": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "차량 정비·사고 단계별 광고상품. 최신 단가·부킹은 담당자 확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "카",
+    "bg": "#edf5ff",
+    "fg": "#3176b6",
+    "audience": {
+      "vertical": [
+        "자동차",
+        "교통"
+      ],
+      "interest": [
+        "신차·중고차"
+      ],
+      "age": [
+        "30대",
+        "40대"
+      ],
+      "gender": [
+        "남성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "스플래시·팝업",
+        "문자(LMS·MMS)"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#cardoc"
+  },
+  {
+    "id": "gcar",
+    "name": "G car (지카)",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "모빌리티",
+    "summary": "카셰어링 앱 이용자·차량 대여 고객 대상 광고 매체",
+    "products": [
+      "앱 광고",
+      "배너",
+      "팝업"
+    ],
+    "target": "카셰어링 앱 이용자·차량 대여 고객",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
+    "website": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "자료상 20대 52.2%, 30대 22.4%, 남성 68.14%. 실제 타깃 설정은 별도 확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "G",
+    "bg": "#f6f0ff",
+    "fg": "#7661b8",
+    "audience": {
+      "vertical": [
+        "자동차",
+        "교통"
+      ],
+      "interest": [
+        "신차·중고차",
+        "국내여행"
+      ],
+      "age": [
+        "20대",
+        "30대"
+      ],
+      "gender": [
+        "남성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "스플래시·팝업"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#gcar"
+  },
+  {
+    "id": "gcoo",
+    "name": "지쿠 GCOO",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "모빌리티",
+    "summary": "공유 전동킥보드·전기자전거 이동 이용자 대상 광고 매체",
+    "products": [
+      "스플래시",
+      "홈 배너",
+      "탑승 종료 배너"
+    ],
+    "target": "공유 전동킥보드·전기자전거 이동 이용자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+    "website": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "위치·시간대·성연령 타깃 데이터 기재. 결제내역 타깃은 추후 반영 예정. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "지",
+    "bg": "#edf8f0",
+    "fg": "#32835b",
+    "audience": {
+      "vertical": [
+        "교통"
+      ],
+      "interest": [
+        "로컬·맛집"
+      ],
+      "age": [
+        "10대",
+        "20대",
+        "30대"
+      ],
+      "gender": [
+        "남성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "스플래시·팝업"
+      ],
+      "region": [
+        "지역 타깃팅 가능"
+      ]
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#gcoo"
+  },
+  {
+    "id": "signaling",
+    "name": "시그널링 Signaling",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "로컬·커뮤니티",
+    "summary": "공동 캘린더를 이용하는 연인·직장인 커플 대상 광고 매체",
+    "products": [
+      "플로팅 아이콘",
+      "홈 팝업",
+      "캘린더 배너",
+      "앱 푸시"
+    ],
+    "target": "공동 캘린더를 이용하는 연인·직장인 커플",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/en/adnote/kit/01KERN662EQHZNAWXH6MRK91GB",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/en/adnote/kit/01KERN662EQHZNAWXH6MRK91GB",
+    "website": "https://adrop.io/en/adnote/kit/01KERN662EQHZNAWXH6MRK91GB",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "2026.07 소개서. 커플 타깃이며 기혼·학부모 타깃으로 간주하지 않음. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "시",
+    "bg": "#fff3e9",
+    "fg": "#b46d32",
+    "audience": {
+      "vertical": [
+        "라이프스타일",
+        "가족·생활"
+      ],
+      "interest": [
+        "쇼핑·커머스",
+        "국내여행",
+        "직장·커리어"
+      ],
+      "age": [
+        "20대",
+        "30대"
+      ],
+      "gender": [
+        "남성",
+        "여성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "푸시",
+        "스플래시·팝업"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#signaling"
+  },
+  {
+    "id": "fablo",
+    "name": "FABLO",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "금융·핀테크",
+    "summary": "금융·투자·앱테크 관심 고객의 미션 참여 광고 대상 광고 매체",
+    "products": [
+      "브랜딩 퀘스트",
+      "가입 미션",
+      "리워드 캠페인"
+    ],
+    "target": "금융·투자·앱테크 관심 고객의 미션 참여 광고",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01M1JX6KXBAJD4G76F5A5W4GA1",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01M1JX6KXBAJD4G76F5A5W4GA1",
+    "website": "https://adrop.io/ko/adnote/kit/01M1JX6KXBAJD4G76F5A5W4GA1",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "미션·퀘스트 기반 참여형 상품. Web3 광고 업종은 별도 심의·운영정책 확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "F",
+    "bg": "#edf5ff",
+    "fg": "#3176b6",
+    "audience": {
+      "vertical": [
+        "금융"
+      ],
+      "interest": [
+        "재테크·투자",
+        "금융상품"
+      ],
+      "age": [
+        "30대",
+        "40대",
+        "50대"
+      ],
+      "gender": [],
+      "life": [],
+      "format": [
+        "리워드",
+        "브랜디드"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#fablo"
+  },
+  {
+    "id": "caredoc",
+    "name": "케어닥",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "헬스케어",
+    "summary": "시니어 간병·재택 돌봄·요양 정보 탐색자 대상 광고 매체",
+    "products": [
+      "시니어 케어 광고",
+      "제휴 패키지"
+    ],
+    "target": "시니어 간병·재택 돌봄·요양 정보 탐색자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01K7ZT568CGE31F2WY58DHKEGE",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01K7ZT568CGE31F2WY58DHKEGE",
+    "website": "https://adrop.io/ko/adnote/kit/01K7ZT568CGE31F2WY58DHKEGE",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "시니어 돌봄 맥락은 확인. 구체 지면·단가는 중개사에 재확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "케",
+    "bg": "#f6f0ff",
+    "fg": "#7661b8",
+    "audience": {
+      "vertical": [
+        "의료",
+        "가족·생활"
+      ],
+      "interest": [
+        "건강관리"
+      ],
+      "age": [
+        "40대",
+        "50대",
+        "60대+"
+      ],
+      "gender": [],
+      "life": [
+        "시니어"
+      ],
+      "format": [
+        "브랜디드"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#caredoc"
+  },
+  {
+    "id": "atflee",
+    "name": "앳플리",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "헬스케어",
+    "summary": "체성분·식단·운동을 기록하는 건강관리 앱 대상 광고 매체",
+    "products": [
+      "건강관리 앱 배너",
+      "웰니스 광고"
+    ],
+    "target": "체성분·식단·운동을 기록하는 건강관리 앱",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01KM1YS6P0ZREBF48Y327BGMNY",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01KM1YS6P0ZREBF48Y327BGMNY",
+    "website": "https://adrop.io/ko/adnote/kit/01KM1YS6P0ZREBF48Y327BGMNY",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "중개 자료에 여성 61.7% 표기. 실제 성별 타깃 상품 제공과는 구분. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "앳",
+    "bg": "#edf8f0",
+    "fg": "#32835b",
+    "audience": {
+      "vertical": [
+        "건강·운동"
+      ],
+      "interest": [
+        "다이어트·피트니스",
+        "건강관리"
+      ],
+      "age": [
+        "20대",
+        "30대",
+        "40대"
+      ],
+      "gender": [
+        "여성"
+      ],
+      "life": [],
+      "format": [
+        "배너"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#atflee"
+  },
+  {
+    "id": "ssukssuk",
+    "name": "쑥쑥찰칵",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "육아·키즈",
+    "summary": "아이 사진·성장 기록을 관리하는 영유아 부모 대상 광고 매체",
+    "products": [
+      "성장기록 광고",
+      "앱 팝업",
+      "배너"
+    ],
+    "target": "아이 사진·성장 기록을 관리하는 영유아 부모",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01KT836ZT5KWW8HRB3XSZRY2D7",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01KT836ZT5KWW8HRB3XSZRY2D7",
+    "website": "https://adrop.io/ko/adnote/kit/01KT836ZT5KWW8HRB3XSZRY2D7",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "0~36개월 자녀 부모 비중은 이용자 특성이고 월령별 광고 선택 가능과 다름. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "쑥",
+    "bg": "#fff3e9",
+    "fg": "#b46d32",
+    "audience": {
+      "vertical": [
+        "육아",
+        "가족·생활"
+      ],
+      "interest": [
+        "육아·키즈"
+      ],
+      "age": [
+        "30대",
+        "40대"
+      ],
+      "gender": [],
+      "life": [
+        "영유아",
+        "학부모"
+      ],
+      "format": [
+        "배너",
+        "스플래시·팝업"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#ssukssuk"
+  },
+  {
+    "id": "twenty",
+    "name": "트웬티 (캐릭터 굿즈)",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "커머스·쇼핑",
+    "summary": "캐릭터·키링·일러스트 굿즈 소비자 대상 광고 매체",
+    "products": [
+      "띠 배너",
+      "홈 팝업",
+      "내 상품 홍보"
+    ],
+    "target": "캐릭터·키링·일러스트 굿즈 소비자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01JCD2V7873Y5RVNDNPPNJGXPR",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01JCD2V7873Y5RVNDNPPNJGXPR",
+    "website": "https://adrop.io/ko/adnote/kit/01JCD2V7873Y5RVNDNPPNJGXPR",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "기간제 CPP 지면 안내. 내 상품 홍보는 입점 여부 제한 확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "트",
+    "bg": "#edf5ff",
+    "fg": "#3176b6",
+    "audience": {
+      "vertical": [
+        "쇼핑",
+        "엔터테인먼트"
+      ],
+      "interest": [
+        "쇼핑·커머스",
+        "엔터테인먼트"
+      ],
+      "age": [
+        "20대"
+      ],
+      "gender": [
+        "여성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "스플래시·팝업"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#twenty"
+  },
+  {
+    "id": "jaritalk",
+    "name": "자리톡",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "부동산",
+    "summary": "임대인·세입자의 월세 관리·거주 맥락 대상 광고 매체",
+    "products": [
+      "임대인 대상 광고",
+      "세입자 대상 광고",
+      "배너"
+    ],
+    "target": "임대인·세입자의 월세 관리·거주 맥락",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01JSK1RR9VA16W53MN3FCKEMHW",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01JSK1RR9VA16W53MN3FCKEMHW",
+    "website": "https://adrop.io/ko/adnote/kit/01JSK1RR9VA16W53MN3FCKEMHW",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "임대인·세입자 구분 지면 존재. 세부 지역·성연령 지정은 별도 확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "자",
+    "bg": "#f6f0ff",
+    "fg": "#7661b8",
+    "audience": {
+      "vertical": [
+        "부동산",
+        "가족·생활"
+      ],
+      "interest": [
+        "부동산·이사",
+        "금융상품"
+      ],
+      "age": [],
+      "gender": [],
+      "life": [],
+      "format": [
+        "배너"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#jaritalk"
+  },
+  {
+    "id": "smartbill",
+    "name": "스마트빌",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "B2B·직장인",
+    "summary": "전자세금계산서 발행·경영관리 실무자 대상 광고 매체",
+    "products": [
+      "포털 배너",
+      "로그인 배너",
+      "세금계산서 이메일 배너"
+    ],
+    "target": "전자세금계산서 발행·경영관리 실무자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01KP9VJZ2MXYHQF1Q77XASHFA5",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01KP9VJZ2MXYHQF1Q77XASHFA5",
+    "website": "https://adrop.io/ko/adnote/kit/01KP9VJZ2MXYHQF1Q77XASHFA5",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "법인·사업자 실무 접점. 최신 광고 단가·광고주 자격 재확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "스",
+    "bg": "#edf8f0",
+    "fg": "#32835b",
+    "audience": {
+      "vertical": [
+        "B2B·직장인",
+        "생산성"
+      ],
+      "interest": [
+        "직장·커리어",
+        "금융상품"
+      ],
+      "age": [
+        "30대",
+        "40대",
+        "50대"
+      ],
+      "gender": [],
+      "life": [],
+      "format": [
+        "배너",
+        "뉴스레터",
+        "스플래시·팝업"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#smartbill"
+  },
+  {
+    "id": "bookstack",
+    "name": "북적북적",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "도서·독서",
+    "summary": "독서기록·책 검색을 반복하는 독서 관심자 대상 광고 매체",
+    "products": [
+      "책 검색 배너",
+      "책 상세 배너",
+      "홈 팝업"
+    ],
+    "target": "독서기록·책 검색을 반복하는 독서 관심자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01HFTP255XKAN4CMX8Z9FDV72T",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01HFTP255XKAN4CMX8Z9FDV72T",
+    "website": "https://adrop.io/ko/adnote/kit/01HFTP255XKAN4CMX8Z9FDV72T",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "여성 83.5%, 18~34세 61% 표기. 소개서 내 MAU 상충 수치는 별도 확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "북",
+    "bg": "#fff3e9",
+    "fg": "#b46d32",
+    "audience": {
+      "vertical": [
+        "도서",
+        "교육"
+      ],
+      "interest": [
+        "독서",
+        "자기계발"
+      ],
+      "age": [
+        "20대",
+        "30대"
+      ],
+      "gender": [
+        "여성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "스플래시·팝업"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#bookstack"
+  },
+  {
+    "id": "publichousing",
+    "name": "공공주택알리미",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "부동산",
+    "summary": "LH·SH·GH 공공임대주택 공고 탐색자 대상 광고 매체",
+    "products": [
+      "공고 상세 중간 배너",
+      "공고 상세 하단 MREC"
+    ],
+    "target": "LH·SH·GH 공공임대주택 공고 탐색자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01KRCZ5JYPWYHYR7QEQVZXRYEE",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01KRCZ5JYPWYHYR7QEQVZXRYEE",
+    "website": "https://adrop.io/ko/adnote/kit/01KRCZ5JYPWYHYR7QEQVZXRYEE",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "공고 탐색 의도 기반 광고이며 개인 소득·신청 자격 타깃을 의미하지 않음. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "공",
+    "bg": "#edf5ff",
+    "fg": "#3176b6",
+    "audience": {
+      "vertical": [
+        "부동산",
+        "복지·행정"
+      ],
+      "interest": [
+        "부동산·이사",
+        "금융상품"
+      ],
+      "age": [],
+      "gender": [],
+      "life": [],
+      "format": [
+        "배너"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#publichousing"
+  },
+  {
+    "id": "sajui",
+    "name": "사주아이",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "뉴스·콘텐츠",
+    "summary": "사주·궁합·운세 콘텐츠 방문자 대상 광고 매체",
+    "products": [
+      "홈 그리드",
+      "운세 상단 배너",
+      "운세 중단 배너"
+    ],
+    "target": "사주·궁합·운세 콘텐츠 방문자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/kit/01KPZ16C20DZSTYNEWGAMJ5TQB",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/kit/01KPZ16C20DZSTYNEWGAMJ5TQB",
+    "website": "https://adrop.io/ko/adnote/kit/01KPZ16C20DZSTYNEWGAMJ5TQB",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "20~30대 여성 중심 이용자. 광고 집행 시 프로모션 CPM 재확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "사",
+    "bg": "#f6f0ff",
+    "fg": "#7661b8",
+    "audience": {
+      "vertical": [
+        "엔터테인먼트",
+        "라이프스타일"
+      ],
+      "interest": [
+        "엔터테인먼트",
+        "자기계발"
+      ],
+      "age": [
+        "20대",
+        "30대"
+      ],
+      "gender": [
+        "여성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "네이티브"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#sajui"
+  },
+  {
+    "id": "prizm",
+    "name": "PRIZM 프리즘",
+    "subtitle": "애드노트 광고소개서 · 제3자 중개",
+    "category": "여행·항공",
+    "summary": "프리미엄 호텔·여행·K-Culture 라이브 커머스 이용자 대상 광고 매체",
+    "products": [
+      "라이브 커머스",
+      "브랜드 영상",
+      "네이티브 콘텐츠"
+    ],
+    "target": "프리미엄 호텔·여행·K-Culture 라이브 커머스 이용자",
+    "deckType": "thirdparty",
+    "deckUrl": "https://adrop.io/ko/adnote/promotion/01KTTVJN8RC41MZQYTQKNHRGHR",
+    "deckLabel": "제3자 광고상품소개서·문의",
+    "contactType": "broker",
+    "contact": "",
+    "contactUrl": "https://adrop.io/ko/adnote/promotion/01KTTVJN8RC41MZQYTQKNHRGHR",
+    "website": "https://adrop.io/ko/adnote/promotion/01KTTVJN8RC41MZQYTQKNHRGHR",
+    "source": "애드노트(Adrop) 제3자 광고상품 소개서",
+    "note": "2026.07 프로모션은 종료. 현재 소개서·집행 가능성은 새로 확인. 제3자 중개 링크이며 원매체 영업 연락처는 별도 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "P",
+    "bg": "#edf8f0",
+    "fg": "#32835b",
+    "audience": {
+      "vertical": [
+        "여행",
+        "쇼핑"
+      ],
+      "interest": [
+        "해외여행",
+        "쇼핑·커머스",
+        "엔터테인먼트"
+      ],
+      "age": [
+        "20대",
+        "30대"
+      ],
+      "gender": [
+        "여성"
+      ],
+      "life": [],
+      "format": [
+        "동영상",
+        "브랜디드",
+        "네이티브"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#prizm"
+  },
+  {
+    "id": "glowpick",
+    "name": "글로우픽",
+    "subtitle": "공식 광고상품·문의 안내",
+    "category": "뷰티",
+    "summary": "화장품 리뷰·뷰티 랭킹·제품 평가 이용자 대상 광고 매체",
+    "products": [
+      "체험단",
+      "프리미엄 체험단",
+      "DA",
+      "콘텐츠"
+    ],
+    "target": "화장품 리뷰·뷰티 랭킹·제품 평가 이용자",
+    "deckType": "guide",
+    "deckUrl": "https://glowpickad.oopy.io/",
+    "deckLabel": "공식 광고상품 및 광고 문의",
+    "contactType": "email",
+    "contact": "media@glowmee.com",
+    "contactUrl": "https://glowpickad.oopy.io/",
+    "website": "https://glowpickad.oopy.io/",
+    "source": "매체 공식 홈페이지·광고센터",
+    "note": "공식 광고센터. 상품별 진행 조건 및 매체소개서 확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "글",
+    "bg": "#fff3e9",
+    "fg": "#b46d32",
+    "audience": {
+      "vertical": [
+        "뷰티·미용"
+      ],
+      "interest": [
+        "스킨케어·메이크업",
+        "쇼핑·커머스"
+      ],
+      "age": [],
+      "gender": [],
+      "life": [],
+      "format": [
+        "배너",
+        "체험단",
+        "브랜디드"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#glowpick"
+  },
+  {
+    "id": "ablydisplay",
+    "name": "에이블리 디스플레이 광고",
+    "subtitle": "공식 광고상품·문의 안내",
+    "category": "패션",
+    "summary": "패션·뷰티 쇼핑을 하는 여성 앱 이용자 대상 광고 매체",
+    "products": [
+      "스플래시",
+      "혜택탭 배너",
+      "네이티브 카드",
+      "검색 배너"
+    ],
+    "target": "패션·뷰티 쇼핑을 하는 여성 앱 이용자",
+    "deckType": "guide",
+    "deckUrl": "https://ablyda.oopy.io/",
+    "deckLabel": "공식 광고상품 및 광고 문의",
+    "contactType": "email",
+    "contact": "ad-biz@a-bly.com",
+    "contactUrl": "https://ablyda.oopy.io/",
+    "website": "https://ablyda.oopy.io/",
+    "source": "매체 공식 홈페이지·광고센터",
+    "note": "공식 광고센터. 미입점 브랜드 아웃링크 상품, 최소 집행 500만원(VAT별도). 판매자용 상품과 구분.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "에",
+    "bg": "#edf5ff",
+    "fg": "#3176b6",
+    "audience": {
+      "vertical": [
+        "쇼핑",
+        "뷰티·미용"
+      ],
+      "interest": [
+        "패션",
+        "스킨케어·메이크업",
+        "쇼핑·커머스"
+      ],
+      "age": [],
+      "gender": [
+        "여성"
+      ],
+      "life": [],
+      "format": [
+        "배너",
+        "네이티브",
+        "동영상",
+        "스플래시·팝업"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#ablydisplay"
+  },
+  {
+    "id": "jasoseol",
+    "name": "자소설닷컴 기업 광고",
+    "subtitle": "공식 광고상품·문의 안내",
+    "category": "B2B·직장인",
+    "summary": "취업준비생 및 신입 채용·교육 모집 관련 광고 대상 광고 매체",
+    "products": [
+      "취업 준비생 광고",
+      "채용 브랜딩",
+      "교육생 모집"
+    ],
+    "target": "취업준비생 및 신입 채용·교육 모집 관련 광고",
+    "deckType": "guide",
+    "deckUrl": "https://jasoseol.com/business",
+    "deckLabel": "공식 광고상품 및 광고 문의",
+    "contactType": "form",
+    "contact": "",
+    "contactUrl": "https://jasoseol.com/business",
+    "website": "https://jasoseol.com/business",
+    "source": "매체 공식 홈페이지·광고센터",
+    "note": "채용·교육 기업서비스 중심. 소비재 광고 가능 여부는 미확인.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "자",
+    "bg": "#f6f0ff",
+    "fg": "#7661b8",
+    "audience": {
+      "vertical": [
+        "교육",
+        "B2B·직장인"
+      ],
+      "interest": [
+        "직장·커리어",
+        "학습·수험"
+      ],
+      "age": [
+        "20대"
+      ],
+      "gender": [],
+      "life": [],
+      "format": [
+        "배너",
+        "브랜디드"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#jasoseol"
+  },
+  {
+    "id": "danawa",
+    "name": "다나와 가격비교 광고",
+    "subtitle": "공식 광고상품·문의 안내",
+    "category": "커머스·쇼핑",
+    "summary": "PC부품·가전·IT 상품을 비교하는 쇼핑 이용자 대상 광고 매체",
+    "products": [
+      "배너",
+      "플러스상품",
+      "스페셜상품",
+      "검색 키워드 광고"
+    ],
+    "target": "PC부품·가전·IT 상품을 비교하는 쇼핑 이용자",
+    "deckType": "guide",
+    "deckUrl": "https://img.danawa.com/new/help/cs_sub5_adv1.html",
+    "deckLabel": "공식 광고상품 및 광고 문의",
+    "contactType": "form",
+    "contact": "",
+    "contactUrl": "https://img.danawa.com/new/help/cs_sub5_adv1.html",
+    "website": "https://img.danawa.com/new/help/cs_sub5_adv1.html",
+    "source": "매체 공식 홈페이지·광고센터",
+    "note": "공식 광고안내에 오래된 플래시 제작 규격이 남아 최신 소재 가이드 확인 필요.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "다",
+    "bg": "#edf8f0",
+    "fg": "#32835b",
+    "audience": {
+      "vertical": [
+        "쇼핑",
+        "IT·테크"
+      ],
+      "interest": [
+        "IT·디지털",
+        "쇼핑·커머스"
+      ],
+      "age": [],
+      "gender": [],
+      "life": [],
+      "format": [
+        "배너",
+        "검색"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#danawa"
+  },
+  {
+    "id": "zigzagpowerup",
+    "name": "지그재그 파워업 광고",
+    "subtitle": "공식 광고상품·문의 안내",
+    "category": "패션",
+    "summary": "지그재그 입점 판매자 대상 상품 홍보 대상 광고 매체",
+    "products": [
+      "파워업 AI 광고",
+      "입점 셀러 상품 광고"
+    ],
+    "target": "지그재그 입점 판매자 대상 상품 홍보",
+    "deckType": "guide",
+    "deckUrl": "https://official.zigzag.kr/partners/powerup-ai-ad/",
+    "deckLabel": "공식 광고상품 및 광고 문의",
+    "contactType": "form",
+    "contact": "",
+    "contactUrl": "https://official.zigzag.kr/partners/powerup-ai-ad/",
+    "website": "https://official.zigzag.kr/partners/powerup-ai-ad/",
+    "source": "매체 공식 홈페이지·광고센터",
+    "note": "입점 셀러 전용으로 일반 외부 브랜드 디스플레이 광고와 다름.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "지",
+    "bg": "#fff3e9",
+    "fg": "#b46d32",
+    "audience": {
+      "vertical": [
+        "쇼핑"
+      ],
+      "interest": [
+        "패션",
+        "쇼핑·커머스"
+      ],
+      "age": [],
+      "gender": [],
+      "life": [],
+      "format": [
+        "검색"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#zigzagpowerup"
+  },
+  {
+    "id": "petdoc-vad",
+    "name": "펫닥 브이애드",
+    "subtitle": "공식 광고상품·문의 안내",
+    "category": "반려동물",
+    "summary": "동물병원 방문 반려인에게 노출하는 병원 내 TV 광고 대상 광고 매체",
+    "products": [
+      "동물병원 브이애드 TV 광고"
+    ],
+    "target": "동물병원 방문 반려인에게 노출하는 병원 내 TV 광고",
+    "deckType": "guide",
+    "deckUrl": "https://petdoc.co.kr/contact",
+    "deckLabel": "공식 광고상품 및 광고 문의",
+    "contactType": "form",
+    "contact": "",
+    "contactUrl": "https://petdoc.co.kr/contact",
+    "website": "https://petdoc.co.kr/contact",
+    "source": "매체 공식 홈페이지·광고센터",
+    "note": "공식 광고 문의 전화 02-417-3002. 펫닥 앱 배너가 아닌 병원 내 TV 광고.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "펫",
+    "bg": "#edf5ff",
+    "fg": "#3176b6",
+    "audience": {
+      "vertical": [
+        "반려동물",
+        "의료"
+      ],
+      "interest": [
+        "반려동물",
+        "건강관리"
+      ],
+      "age": [],
+      "gender": [],
+      "life": [
+        "반려동물 보호자"
+      ],
+      "format": [
+        "동영상",
+        "옥외·DOOH"
+      ],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#petdoc-vad"
+  },
+  {
+    "id": "fitpet",
+    "name": "핏펫",
+    "subtitle": "공식 광고상품·문의 안내",
+    "category": "반려동물",
+    "summary": "반려동물 용품·건강 관리 구매 관심 고객 대상 광고 매체",
+    "products": [
+      "공식 광고문의(개별 지면 미공개)"
+    ],
+    "target": "반려동물 용품·건강 관리 구매 관심 고객",
+    "deckType": "guide",
+    "deckUrl": "https://www.fitpetmall.com/",
+    "deckLabel": "공식 광고상품 및 광고 문의",
+    "contactType": "email",
+    "contact": "ads@fitpet.co.kr",
+    "contactUrl": "https://www.fitpetmall.com/",
+    "website": "https://www.fitpetmall.com/",
+    "source": "매체 공식 홈페이지·광고센터",
+    "note": "핏펫몰 공식 공개 광고 메일 확인. 매체 소개서와 실제 광고지면·단가는 추가 요청 필요.",
+    "verified": "2026-10-28",
+    "custom": false,
+    "short": "핏",
+    "bg": "#f6f0ff",
+    "fg": "#7661b8",
+    "audience": {
+      "vertical": [
+        "반려동물",
+        "쇼핑"
+      ],
+      "interest": [
+        "반려동물",
+        "쇼핑·커머스"
+      ],
+      "age": [],
+      "gender": [],
+      "life": [
+        "반려동물 보호자"
+      ],
+      "format": [],
+      "region": []
+    },
+    "audienceReviewed": false,
+    "researchBatch": "20261028-expansion",
+    "archiveUrl": "./research-20261028-expansion.html#fitpet"
   }
 ]
