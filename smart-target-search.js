@@ -38,7 +38,7 @@
       ["건강관리",/건강|헬스케어|병원|의료|질병|치료|검진|웰니스|혈당/],
       ["독서",/도서|독서|서점|책\s*좋아|전자책|웹소설/],
       ["반려동물",/반려동물|반려견|반려묘|강아지|고양이|펫케어|동물병원/],
-      ["IT·디지털",/IT|테크|전자기기|디지털|컴퓨터|개발자|AI|인공지능/],
+      ["IT·디지털",/\bIT\b|테크|전자기기|디지털|컴퓨터|개발자|\bAI\b|인공지능/],
       ["엔터테인먼트",/영화|드라마|콘서트|연예|웹툰|OTT|공연|뮤지컬|음악/],
       ["스포츠·레저",/골프|풋살|축구|야구|스포츠|캠핑|등산|수영|낚시/],
       ["직장·커리어",/직장인|회사원|취업|채용|기업\s*인사|커리어|사무직|B2B/],
@@ -116,6 +116,9 @@
     const profile=getProfile(media)||{};
     const explicit=media.audience||{};
     const notes=String([media.summary,media.target,media.note].filter(Boolean).join(" "));
+    const concrete=String(intent.query).match(/골프|풋살|수영|야구|축구|캠핑|등산|러닝|낚시|게임|반려견|반려묘|유치원/);
+    const concreteTerm=concrete&&concrete[0];
+    const contextText=String([media.name,media.category,media.summary,media.target,media.products?.join(" ")].filter(Boolean).join(" "));
     let weighted=0,maxWeight=0,matched=[],missing=[],confirmed=[],context=[];
     for(const [key,wanted] of Object.entries(intent.tags)){
       if(!wanted.length)continue;
@@ -163,6 +166,10 @@
     // Favor the strongest contextual match, never advertise score as an audience index.
     if(!matched.length)return null;
     if(matched.some(m=>m.key==="life"&&m.value==="유치원"))score=Math.min(100,score+3);
+    if(concreteTerm){
+      if(contextText.includes(concreteTerm))score=Math.min(100,score+13);
+      else if(concreteTerm!=="유치원"&&concreteTerm!=="게임")score=Math.max(0,score-23);
+    }
     let tier=score>=73?"상위 관련 후보":score>=45?"관련 매체":"확인 필요 후보";
     return {media,score,tier,matched,missing:uniq(missing),verifiedCount:confirmed.length,hasInterest:domain};
   }
