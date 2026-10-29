@@ -1,0 +1,117 @@
+{
+  "media_id": "yeolpumta",
+  "document": "2601열품타업데이트_광고상품소개서_프로모션2601.pdf",
+  "documentVersion": "Ver.202512 (표지) / 파일명 2601",
+  "sourcePages": 31,
+  "reviewDate": "2026-10-29",
+  "sourceType": "user_supplied_pdf",
+  "pdfPublished": false,
+  "audience": {
+    "cumulativeUsers": "1,200만",
+    "mau": "210만",
+    "dau": "66만",
+    "sourcePage": 3,
+    "statisticsPeriod": "자료에는 2020~2025년 기준 수치 혼재",
+    "categories": [
+      "초등학생",
+      "중학생",
+      "고교 1·2·3/N수",
+      "일반 대학생",
+      "LEET",
+      "로스쿨",
+      "임용고시",
+      "CPA",
+      "CTA",
+      "공무원",
+      "경찰·소방공무원",
+      "노무사",
+      "감정평가사",
+      "변리사",
+      "관세사",
+      "편입",
+      "취업준비생"
+    ],
+    "targeting": [
+      "학습·수험 카테고리",
+      "학년",
+      "OS"
+    ],
+    "targetingPages": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "products": [
+    {
+      "name": "전면 팝업",
+      "placement": "앱 실행 시",
+      "billing": "CPM",
+      "rate": "10,000원",
+      "minimum": "500만원(VAT 별도)",
+      "estimatedCTR": "6~11% (자료 예상)",
+      "page": 11
+    },
+    {
+      "name": "스퀘어배너",
+      "placement": "공부 통계 페이지 중앙",
+      "billing": "CPM",
+      "rate": "8,000원",
+      "minimum": "300만원(VAT 별도)",
+      "promotion": {
+        "rate": "6,400원",
+        "period": "2026년 상반기",
+        "discount": "20%",
+        "status": "종료된 한정 프로모션"
+      },
+      "estimatedCTR": "2~3% (자료 예상)",
+      "page": 12
+    },
+    {
+      "name": "스몰배너 4종",
+      "placement": "그룹·랭킹·더보기·커뮤니티",
+      "billing": "CPM",
+      "rate": "2,500원",
+      "minimum": "300만원(VAT 별도)",
+      "estimatedCTR": "약 1% (자료 예상)",
+      "page": 13
+    },
+    {
+      "name": "보상형 액션광고",
+      "placement": "스토어 이벤트·스몰배너 등",
+      "billing": "CPA",
+      "rate": "성공당 5,000원(액션 난이도별 조정)",
+      "minimum": "300만원",
+      "tracking": "광고주 API 연동",
+      "page": 14
+    }
+  ],
+  "operations": {
+    "creativeLead": "라이브 최소 2영업일 전",
+    "creativeChanges": "최대 3회",
+    "creativeRotation": "최대 5개",
+    "reporting": "VIEW·CLICK·CTR·CPC, CPA는 액션성공 추가",
+    "pages": [
+      15,
+      16,
+      29,
+      30
+    ]
+  },
+  "contact": {
+    "name": "강민아 매니저",
+    "email": "miya@yeolpumta.com",
+    "phone": "010-4402-4571",
+    "sourcePage": 31,
+    "officialSite": "https://yeolpumta.com/"
+  },
+  "caveats": [
+    "2026년 상반기 할인 가격은 기간 종료; 재진행 여부 미확인",
+    "MAU·DAU의 관측 기간이 과거이므로 현재 수치로 사용 불가",
+    "CTR/CPC는 자료 예상치로 실제 성과 보장 아님",
+    "자료의 학습 카테고리별 도달과 광고 연령·성별 타깃 지원 여부는 구분",
+    "PDF 원본은 GitHub에 업로드하지 않음"
+  ]
+}
