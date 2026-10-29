@@ -1,11 +1,215 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T09:31:02+00:00",
+  "generated_at": "2026-10-29T01:05:21+00:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
-    "total": 0,
-    "pending": 0,
+    "total": 13,
+    "pending": 13,
     "reviewed": 0
   },
-  "items": []
+  "items": [
+    {
+      "id": "review-766eb1f285e08a9beda3",
+      "media_id": "ddiary",
+      "media_name": "닥터다이어리",
+      "field": "contacts",
+      "added": [],
+      "no_longer_detected": [
+        "contact@adrop.io"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01J5CQ1V6982FG03H70BMA3P0F",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-e5e6bd5f6e52b5bad5f0",
+      "media_id": "ddiary",
+      "media_name": "닥터다이어리",
+      "field": "document_versions",
+      "added": [
+        "2025.11",
+        "2026.02"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01J5CQ1V6982FG03H70BMA3P0F",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-219e4266d6f39a909956",
+      "media_id": "assistfit",
+      "media_name": "어시스트핏 Assistfit",
+      "field": "products",
+      "added": [
+        "스플래시·팝업"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01K3FJZ12Q6GQGG714MGE8E21G",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-97b5c5ae8cdb5f2f9970",
+      "media_id": "uppity",
+      "media_name": "어피티 UPPITY",
+      "field": "rates",
+      "added": [
+        "CPP 7"
+      ],
+      "no_longer_detected": [
+        "최소 광고 단가 (CPP 7일): 350,000원"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-4cc0e50bbfa3b7980b11",
+      "media_id": "oneulschool",
+      "media_name": "오늘학교",
+      "field": "products",
+      "added": [],
+      "no_longer_detected": [
+        "문자(LMS·MMS)"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-61476b3f66f0b5a29b0e",
+      "media_id": "oneulschool",
+      "media_name": "오늘학교",
+      "field": "rates",
+      "added": [
+        "최소 집행금액: 300만원 (타 상품 결합 시 100만원"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-ab24aa9b063e0cca499d",
+      "media_id": "gcoo",
+      "media_name": "지쿠 GCOO",
+      "field": "products",
+      "added": [],
+      "no_longer_detected": [
+        "네이티브"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-205d9d3044ec002160fd",
+      "media_id": "cashmore",
+      "media_name": "캐시모어",
+      "field": "contacts",
+      "added": [],
+      "no_longer_detected": [
+        "contact@adrop.io"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01K4SFE3DQK48M4S8PZ2M0NAD4",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-6aabbb4737d1abda5411",
+      "media_id": "caredoc",
+      "media_name": "케어닥",
+      "field": "document_versions",
+      "added": [],
+      "no_longer_detected": [
+        "2026 1"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01K7ZT568CGE31F2WY58DHKEGE",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-c4510dd79e3874f31f13",
+      "media_id": "contestkorea",
+      "media_name": "콘테스트코리아",
+      "field": "contacts",
+      "added": [
+        "contact@adrop.io"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZZ2R6KY5SE1KDMDTSWS8KJ4",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-0da1b12685c20d667b1e",
+      "media_id": "foodcon",
+      "media_name": "푸드콘",
+      "field": "contacts",
+      "added": [],
+      "no_longer_detected": [
+        "contact@adrop.io"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-db818d48589aede20823",
+      "media_id": "foodcon",
+      "media_name": "푸드콘",
+      "field": "rates",
+      "added": [
+        "최소 집행 기간/금액 | 2주 / 2,000,000원"
+      ],
+      "no_longer_detected": [
+        "CPM 1,100원",
+        "CPM 1,250원",
+        "CPM 2,500원",
+        "최소 집행 기간 / 금액 | 2주 / 2,000,000원"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    },
+    {
+      "id": "review-b2d8c14b3b02cccf972d",
+      "media_id": "plabfootball",
+      "media_name": "플랩풋볼",
+      "field": "contacts",
+      "added": [
+        "ad-sales@plabfootball.com"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01JQX9KW4NEXFYDW6KVQTAWHCT",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-29T01:05:21+00:00",
+      "last_seen": "2026-10-29T01:05:21+00:00"
+    }
+  ]
 }
