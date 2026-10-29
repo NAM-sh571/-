@@ -4325,5 +4325,184 @@
     "audienceReviewed": false,
     "researchBatch": "20261028-expansion",
     "archiveUrl": "./research-20261028-expansion.html#fitpet"
+  },
+  {
+    "id": "netflix",
+    "name": "넷플릭스 Netflix Ads",
+    "subtitle": "2026년 9월 사용자 제공 광고소개서",
+    "category": "OTT·스트리밍",
+    "summary": "OTT 광고요금제 콘텐츠의 논스킵 영상, 일시정지, QR, 싱글 타이틀 스폰서십 광고. 콘텐츠 장르·시청이력·관심사·성연령·지역 타깃 지원.",
+    "products": [
+      "일반 영상광고 (프리롤·미드롤)",
+      "일시정지 광고",
+      "QR 영상 광고",
+      "QR 일시정지 광고",
+      "싱글 타이틀 스폰서십"
+    ],
+    "target": "시청 콘텐츠·장르·연령·성별·17개 시·도 단위 지역·관심사·시청 무드 타깃팅(이용자별 인구통계 비중과는 구분)",
+    "audience": {
+      "vertical": [
+        "엔터테인먼트"
+      ],
+      "interest": [
+        "엔터테인먼트"
+      ],
+      "age": [
+        "20대",
+        "30대",
+        "40대",
+        "50대",
+        "60대+"
+      ],
+      "gender": [
+        "여성",
+        "남성"
+      ],
+      "region": [
+        "지역 타깃팅 가능"
+      ],
+      "format": [
+        "동영상",
+        "배너",
+        "브랜디드"
+      ]
+    },
+    "audienceReviewed": true,
+    "deckType": "guide",
+    "deckUrl": "https://advertising.netflix.com/",
+    "deckLabel": "공식 광고상품 안내·문의",
+    "contactType": "form",
+    "contact": "",
+    "contactUrl": "https://advertising.netflix.com/",
+    "website": "https://advertising.netflix.com/",
+    "source": "사용자 제공 (DMC미디어)넷플릭스 광고 상품 소개서_2609.pdf · 원본 PDF 비공개",
+    "note": "소개서 수록 단가·타깃팅·구매방식은 상세 아카이브 참조. 실제 집행 단가·재고·가능 타깃은 담당자 재확인.",
+    "verified": "2026-10-29",
+    "custom": false,
+    "short": "N",
+    "bg": "#f9edf0",
+    "fg": "#c72139",
+    "archiveUrl": "./ott-ad-archive.html#netflix",
+    "archiveDataUrl": "./data/ott_netflix_archive.json"
+  },
+  {
+    "id": "coupangplay",
+    "name": "쿠팡플레이",
+    "subtitle": "2026년 9월 사용자 제공 광고소개서",
+    "category": "OTT·스트리밍",
+    "summary": "쿠팡플레이 오리지널·영화·예능·국내외 스포츠의 VOD/라이브 영상 및 EPL 가상광고·DA 배너 패키지. DMC미디어 공식 광고파트너 자료 기준.",
+    "products": [
+      "PLAY VOD",
+      "PLAY Sports",
+      "EPL 가상광고 일반·Split",
+      "스포츠 중계 가상광고",
+      "배너 DA 패키지"
+    ],
+    "target": "20~49세 이용자 합산 62%(20대 16%, 30대 20%, 40대 26%); 스포츠·오리지널 콘텐츠·디바이스·요일·시간대 타깃(성별/연령 직접 타깃은 소개서 미확인)",
+    "audience": {
+      "vertical": [
+        "엔터테인먼트",
+        "스포츠·레저"
+      ],
+      "interest": [
+        "엔터테인먼트",
+        "스포츠·레저"
+      ],
+      "age": [
+        "20대",
+        "30대",
+        "40대"
+      ],
+      "format": [
+        "동영상",
+        "배너",
+        "스플래시·팝업"
+      ]
+    },
+    "audienceReviewed": true,
+    "deckType": "request",
+    "deckUrl": "https://www.dmcmedia.co.kr/about/company",
+    "deckLabel": "DMC미디어 광고 파트너 소개·메일 문의",
+    "contactType": "email",
+    "contact": "ms@dmcmedia.co.kr",
+    "contactUrl": "https://www.dmcmedia.co.kr/about/company",
+    "website": "https://www.dmcmedia.co.kr/about/company",
+    "source": "사용자 제공 [쿠팡플레이]_광고_상품_소개서_26.09_F.pdf · 원본 PDF 비공개",
+    "note": "소개서 수록 단가·타깃팅·구매방식은 상세 아카이브 참조. 실제 집행 단가·재고·가능 타깃은 담당자 재확인.",
+    "verified": "2026-10-29",
+    "custom": false,
+    "short": "쿠",
+    "bg": "#eaf5ff",
+    "fg": "#2d6cb9",
+    "archiveUrl": "./ott-ad-archive.html#coupangplay",
+    "archiveDataUrl": "./data/ott_coupangplay_archive.json"
+  },
+  {
+    "id": "tvingwavve",
+    "name": "TVING × Wavve 통합 광고",
+    "subtitle": "2025년 4Q 통합 상품소개서 · 파일명 26.01",
+    "category": "OTT·스트리밍",
+    "summary": "TVING·Wavve 통합 OTT 광고 플랫폼. 양 플랫폼을 함께 구매하는 영상 상품과 TVING 전용 스플래시·쇼츠·일시정지·배너 상품을 구분.",
+    "products": [
+      "TW 오늘의 TOP20",
+      "Prime Time PKG",
+      "CTV Premier",
+      "베이직 인스트림",
+      "관심사 세그먼트",
+      "TVING Lite",
+      "아웃스트림 영상",
+      "Shorts In-feed",
+      "스플래시 배너",
+      "일시정지 광고",
+      "이미지 배너 PKG",
+      "브랜디드 콘텐츠"
+    ],
+    "target": "성별·연령(5세 단위), 디바이스·OS, 시청 시간대·요일, 콘텐츠·시청등급·관심사 세그먼트(상품별 상이). 통합과 TVING Only 광고상품 구분.",
+    "audience": {
+      "vertical": [
+        "엔터테인먼트",
+        "스포츠·레저"
+      ],
+      "interest": [
+        "엔터테인먼트",
+        "스포츠·레저",
+        "쇼핑·커머스"
+      ],
+      "age": [
+        "20대",
+        "30대",
+        "40대",
+        "50대",
+        "60대+"
+      ],
+      "gender": [
+        "여성",
+        "남성"
+      ],
+      "format": [
+        "동영상",
+        "배너",
+        "네이티브",
+        "스플래시·팝업",
+        "브랜디드"
+      ]
+    },
+    "audienceReviewed": true,
+    "deckType": "guide",
+    "deckUrl": "https://www.tvingads.com/",
+    "deckLabel": "공식 광고상품 안내·문의",
+    "contactType": "email",
+    "contact": "tving.advertising@cj.net",
+    "contactUrl": "https://www.tvingads.com/",
+    "website": "https://www.tvingads.com/",
+    "source": "사용자 제공 TVING_X_Wavve_통합_소개서_Final_26.01.pdf · 원본 PDF 비공개",
+    "note": "문서 파일명 26.01과 표지 2025.4Q가 다릅니다. 소개서 수록 단가·타깃팅·구매방식은 상세 아카이브 참조. 실제 집행 단가·재고·가능 타깃은 담당자 재확인.",
+    "verified": "2026-10-29",
+    "custom": false,
+    "short": "TW",
+    "bg": "#f1efff",
+    "fg": "#7554a8",
+    "archiveUrl": "./ott-ad-archive.html#tvingwavve",
+    "archiveDataUrl": "./data/ott_tvingwavve_archive.json"
   }
 ]

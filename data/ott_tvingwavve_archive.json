@@ -1,0 +1,142 @@
+{
+  "id": "tvingwavve",
+  "name": "TVING × Wavve 통합 광고",
+  "file": "TVING_X_Wavve_통합_소개서_Final_26.01.pdf",
+  "version": "2025.4Q (표지) / 파일명 26.01",
+  "pages": 35,
+  "publicUrl": "https://www.tvingads.com/",
+  "contactUrl": "https://www.tvingads.com/",
+  "contact": "tving.advertising@cj.net",
+  "contactType": "email",
+  "overview": "TVING·Wavve 통합 OTT 광고 플랫폼. 양 플랫폼을 함께 구매하는 영상 상품과 TVING 전용 스플래시·쇼츠·일시정지·배너 상품을 구분.",
+  "products": [
+    "TW 오늘의 TOP20",
+    "Prime Time PKG",
+    "CTV Premier",
+    "베이직 인스트림",
+    "관심사 세그먼트",
+    "TVING Lite",
+    "아웃스트림 영상",
+    "Shorts In-feed",
+    "스플래시 배너",
+    "일시정지 광고",
+    "이미지 배너 PKG",
+    "브랜디드 콘텐츠"
+  ],
+  "audience": {
+    "vertical": [
+      "엔터테인먼트",
+      "스포츠·레저"
+    ],
+    "interest": [
+      "엔터테인먼트",
+      "스포츠·레저",
+      "쇼핑·커머스"
+    ],
+    "age": [
+      "20대",
+      "30대",
+      "40대",
+      "50대",
+      "60대+"
+    ],
+    "gender": [
+      "여성",
+      "남성"
+    ],
+    "format": [
+      "동영상",
+      "배너",
+      "네이티브",
+      "스플래시·팝업",
+      "브랜디드"
+    ]
+  },
+  "target": "성별·연령(5세 단위), 디바이스·OS, 시청 시간대·요일, 콘텐츠·시청등급·관심사 세그먼트(상품별 상이). 통합과 TVING Only 광고상품 구분.",
+  "detail": {
+    "packages": [],
+    "rates": [
+      {
+        "name": "TW 오늘의 TOP20(통합)",
+        "price": "CPM 25,000원",
+        "unit": "논스킵 15초 · 최소 3,000만원(VAT 별도)",
+        "page": 11
+      },
+      {
+        "name": "Prime Time PKG(통합)",
+        "price": "CPM 20,000원",
+        "unit": "논스킵 15초 · 최소 2,000만원(VAT 별도)",
+        "page": 12
+      },
+      {
+        "name": "CTV Premier(통합)",
+        "price": "CPM 18,000원",
+        "unit": "논스킵 15초 · 최소 1,000만원(VAT 별도)",
+        "page": 13
+      },
+      {
+        "name": "베이직 인스트림(통합)",
+        "price": "CPM 16,000원",
+        "unit": "논스킵 15초 · 최소 1,000만원(VAT 별도)",
+        "page": 16
+      },
+      {
+        "name": "관심사 세그먼트",
+        "price": "기본 CPM + 5,000원",
+        "unit": "베이직 인스트림 타깃 옵션",
+        "page": 17
+      },
+      {
+        "name": "TVING Lite",
+        "price": "CPM 8,000원~",
+        "unit": "경매형 · 최소 청약 제한 없음 · 별도 수수료",
+        "page": 18
+      },
+      {
+        "name": "아웃스트림(TVING 전용)",
+        "price": "CPD 월~목 1,200만원",
+        "unit": "금~일 1,500만원 · 일 독점",
+        "page": 19
+      },
+      {
+        "name": "Shorts In-feed(TVING 전용)",
+        "price": "CPM 7,000원",
+        "unit": "1구좌 1,000만원 · 쇼츠",
+        "page": 21
+      },
+      {
+        "name": "일시정지(TVING 전용)",
+        "price": "CPM 10,000원",
+        "unit": "최소 1,000만원(VAT 별도)",
+        "page": 22
+      },
+      {
+        "name": "이미지 배너(TVING 전용)",
+        "price": "CPM 4,000원",
+        "unit": "최소 1,000만원(VAT 별도)",
+        "page": 23
+      },
+      {
+        "name": "스플래시(TVING 전용)",
+        "price": "문서상 미정",
+        "unit": "4분기 업데이트 예정 표기",
+        "page": 20
+      }
+    ],
+    "targeting": [
+      "통합 인스트림: 성별·연령(5세 단위)·디바이스/OS·시간대·요일·광고위치",
+      "베이직 인스트림: 관심사 세그먼트(Beta), 프로그램·채널·시청등급",
+      "TVING Lite: 경매형, 프로그램·시청등급 등 세부 설정 가능",
+      "TVING 전용 쇼츠 In-feed·스플래시 광고는 문서상 타깃팅 불가"
+    ],
+    "caveats": [
+      "파일명은 26.01이나 1페이지 표지에 2025.4Q 명시, 자료 기준은 2025년 4분기로 기록",
+      "TW 통합은 양 플랫폼 동시 노출이 기본. TVING Only 상품은 웨이브 지면을 포함하지 않음",
+      "표기 단가 및 재고·상품 구성은 2026년 10월 기준 최신 여부 공식 사이트 재확인 필요",
+      "자료상 일부 신규 지면/상품은 Beta 또는 미정 상태"
+    ]
+  },
+  "sourceType": "user_supplied_pdf_summary_only",
+  "originalUploadedPublicly": false,
+  "reviewedAt": "2026-10-29"
+}

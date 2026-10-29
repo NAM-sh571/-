@@ -1,0 +1,119 @@
+{
+  "id": "netflix",
+  "name": "넷플릭스 Netflix Ads",
+  "file": "(DMC미디어)넷플릭스 광고 상품 소개서_2609.pdf",
+  "version": "2026.09",
+  "pages": 30,
+  "publicUrl": "https://advertising.netflix.com/",
+  "contactUrl": "https://advertising.netflix.com/",
+  "contact": "",
+  "contactType": "form",
+  "overview": "OTT 광고요금제 콘텐츠의 논스킵 영상, 일시정지, QR, 싱글 타이틀 스폰서십 광고. 콘텐츠 장르·시청이력·관심사·성연령·지역 타깃 지원.",
+  "products": [
+    "일반 영상광고 (프리롤·미드롤)",
+    "일시정지 광고",
+    "QR 영상 광고",
+    "QR 일시정지 광고",
+    "싱글 타이틀 스폰서십"
+  ],
+  "audience": {
+    "vertical": [
+      "엔터테인먼트"
+    ],
+    "interest": [
+      "엔터테인먼트"
+    ],
+    "age": [
+      "20대",
+      "30대",
+      "40대",
+      "50대",
+      "60대+"
+    ],
+    "gender": [
+      "여성",
+      "남성"
+    ],
+    "region": [
+      "지역 타깃팅 가능"
+    ],
+    "format": [
+      "동영상",
+      "배너",
+      "브랜디드"
+    ]
+  },
+  "target": "시청 콘텐츠·장르·연령·성별·17개 시·도 단위 지역·관심사·시청 무드 타깃팅(이용자별 인구통계 비중과는 구분)",
+  "detail": {
+    "packages": [
+      {
+        "name": "DIO (직접 IO)",
+        "price": "최소 NET 4,000만원 / GROSS 5,000만원",
+        "unit": "30일 기준",
+        "page": 22
+      },
+      {
+        "name": "PG (보장형)",
+        "price": "최소 NET 4,000만원 / GROSS 5,000만원",
+        "unit": "30일 기준",
+        "page": 22
+      },
+      {
+        "name": "PMP (경매형)",
+        "price": "최소 NET 2,000만원",
+        "unit": "30일 기준, Floor Price 이상 입찰",
+        "page": 22
+      }
+    ],
+    "rates": [
+      {
+        "name": "DIO/PG 일반 비디오 15초",
+        "price": "23,000원",
+        "unit": "소개서 단가표 기준",
+        "page": 24
+      },
+      {
+        "name": "DIO 비디오 QR 15초",
+        "price": "25,300원",
+        "unit": "소개서 단가표 기준",
+        "page": 24
+      },
+      {
+        "name": "DIO 일시정지 광고",
+        "price": "11,000원",
+        "unit": "소개서 단가표 기준",
+        "page": 24
+      },
+      {
+        "name": "DIO 일시정지 QR",
+        "price": "12,000원",
+        "unit": "소개서 단가표 기준",
+        "page": 24
+      },
+      {
+        "name": "PMP 15초 일반 영상",
+        "price": "14,700원",
+        "unit": "Floor Price, 경매 시작가",
+        "page": 24
+      }
+    ],
+    "targeting": [
+      "성별·연령 타깃 +15% (연령 18~24, 25~34, 35~49, 50~54, 55~64, 65+)",
+      "광역시·도 단위 지역 타깃 +10%",
+      "TOP10 콘텐츠 +40%",
+      "장르 타깃 +10%",
+      "관심사(100개 이상) +15%",
+      "시청 무드 +15%",
+      "타이틀 셀렉션·1P 오디언스·디바이스·시간대·브랜드 세이프티"
+    ],
+    "caveats": [
+      "DIO/PG/PMP 구매방식별 타깃 및 상품 지원 범위가 다름",
+      "단가표의 화폐단위는 원으로 표기되며 CPM 등 과금기준·VAT·계약 수수료는 담당자 재확인",
+      "PMP는 Floor Price이며 Tech Fee·운영 수수료 별도",
+      "2026년 9월 추석 프로모션은 종료. 2026년 12월 말까지 신규 광고주 한시 프로모션 별도 조건 적용"
+    ]
+  },
+  "sourceType": "user_supplied_pdf_summary_only",
+  "originalUploadedPublicly": false,
+  "reviewedAt": "2026-10-29"
+}

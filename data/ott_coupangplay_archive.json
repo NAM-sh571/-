@@ -1,0 +1,109 @@
+{
+  "id": "coupangplay",
+  "name": "쿠팡플레이",
+  "file": "[쿠팡플레이]_광고_상품_소개서_26.09_F.pdf",
+  "version": "2026.09",
+  "pages": 19,
+  "publicUrl": "https://www.dmcmedia.co.kr/about/company",
+  "contactUrl": "https://www.dmcmedia.co.kr/about/company",
+  "contact": "ms@dmcmedia.co.kr",
+  "contactType": "email",
+  "overview": "쿠팡플레이 오리지널·영화·예능·국내외 스포츠의 VOD/라이브 영상 및 EPL 가상광고·DA 배너 패키지. DMC미디어 공식 광고파트너 자료 기준.",
+  "products": [
+    "PLAY VOD",
+    "PLAY Sports",
+    "EPL 가상광고 일반·Split",
+    "스포츠 중계 가상광고",
+    "배너 DA 패키지"
+  ],
+  "audience": {
+    "vertical": [
+      "엔터테인먼트",
+      "스포츠·레저"
+    ],
+    "interest": [
+      "엔터테인먼트",
+      "스포츠·레저"
+    ],
+    "age": [
+      "20대",
+      "30대",
+      "40대"
+    ],
+    "format": [
+      "동영상",
+      "배너",
+      "스플래시·팝업"
+    ]
+  },
+  "target": "20~49세 이용자 합산 62%(20대 16%, 30대 20%, 40대 26%); 스포츠·오리지널 콘텐츠·디바이스·요일·시간대 타깃(성별/연령 직접 타깃은 소개서 미확인)",
+  "detail": {
+    "packages": [],
+    "rates": [
+      {
+        "name": "PLAY VOD 15초",
+        "price": "CPM 20,000원",
+        "unit": "최소 집행 1,000만원 (VAT 별도)",
+        "page": 8
+      },
+      {
+        "name": "PLAY VOD 30초",
+        "price": "CPM 28,000원",
+        "unit": "쿠팡 입점 광고주 10% 할인 표기",
+        "page": 6
+      },
+      {
+        "name": "PLAY Sports 15초",
+        "price": "CPM 30,000원",
+        "unit": "최소 집행 1,000만원 (VAT 별도)",
+        "page": 9
+      },
+      {
+        "name": "PLAY Sports 30초",
+        "price": "CPM 42,000원",
+        "unit": "쿠팡 입점 광고주 10% 할인 표기",
+        "page": 6
+      },
+      {
+        "name": "EPL 가상광고 일반",
+        "price": "2,500만원 / 구좌",
+        "unit": "VAT 별도 · EPL 한정",
+        "page": 10
+      },
+      {
+        "name": "EPL 가상광고 Split",
+        "price": "3,000만원 / 구좌",
+        "unit": "VAT 별도 · EPL 한정",
+        "page": 11
+      },
+      {
+        "name": "DA 배너 패키지(월~목)",
+        "price": "1,500만원 / 일",
+        "unit": "일 독점 구매",
+        "page": 15
+      },
+      {
+        "name": "DA 배너 패키지(금~일)",
+        "price": "2,000만원 / 일",
+        "unit": "일 독점 구매",
+        "page": 15
+      }
+    ],
+    "targeting": [
+      "PLAY VOD: VOD 지면·TOP5·Hot Event·시청등급·디바이스·OS·요일·시간대",
+      "PLAY Sports: 특정 리그·Hot Sports Game·디바이스·OS",
+      "일부 옵션 +10%, TOP5 +20%, 리그 +20%, Hot Event/Hot Game +40%",
+      "복수 옵션 할증은 합산 적용"
+    ],
+    "caveats": [
+      "성별·연령 사용자 비율은 실제 광고 집행 타깃 선택 가능을 의미하지 않음",
+      "15초 가격은 미입점 광고주 기준이며 쿠팡 입점 광고주 10% 할인 조건 표기",
+      "영상 상품 클릭·랜딩 불가(소개서 2026.09 표기 기준)",
+      "광고문의 ms@dmcmedia.co.kr는 DMC미디어 채널마케팅실이며 쿠팡플레이 직접 이메일이 아님",
+      "소개서 내 경쟁 업종·일부 의료/금융·게임 등의 제한 및 사전심의 규정 적용"
+    ]
+  },
+  "sourceType": "user_supplied_pdf_summary_only",
+  "originalUploadedPublicly": false,
+  "reviewedAt": "2026-10-29"
+}
