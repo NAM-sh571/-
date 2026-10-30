@@ -1,13 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T09:28:41+00:00",
+  "generated_at": "2026-10-30T01:08:16+00:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
-    "total": 22,
-    "pending": 22,
+    "total": 30,
+    "pending": 30,
     "reviewed": 0
   },
   "items": [
+    {
+      "id": "review-082cd1ce01c590590cec",
+      "media_id": "ddiary",
+      "media_name": "닥터다이어리",
+      "field": "contacts",
+      "added": [
+        "contact@adrop.io"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01J5CQ1V6982FG03H70BMA3P0F",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
+    },
     {
       "id": "review-766eb1f285e08a9beda3",
       "media_id": "ddiary",
@@ -23,6 +38,23 @@
       "first_seen": "2026-10-29T01:05:21+00:00",
       "last_seen": "2026-10-29T01:05:21+00:00",
       "not_observed_again": true
+    },
+    {
+      "id": "review-b1f920a8ad7c69c861eb",
+      "media_id": "ddiary",
+      "media_name": "닥터다이어리",
+      "field": "document_versions",
+      "added": [
+        "2026.02 1"
+      ],
+      "no_longer_detected": [
+        "2026.02"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01J5CQ1V6982FG03H70BMA3P0F",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
     },
     {
       "id": "review-e5e6bd5f6e52b5bad5f0",
@@ -89,6 +121,39 @@
       "first_seen": "2026-10-29T01:05:21+00:00",
       "last_seen": "2026-10-29T01:05:21+00:00",
       "not_observed_again": true
+    },
+    {
+      "id": "review-23f7ae5b060b2c3f81ec",
+      "media_id": "uppity",
+      "media_name": "어피티 UPPITY",
+      "field": "document_versions",
+      "added": [
+        "2026 1"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
+    },
+    {
+      "id": "review-7bec214f4db5c6d44392",
+      "media_id": "uppity",
+      "media_name": "어피티 UPPITY",
+      "field": "rates",
+      "added": [
+        "CPP 350,000원",
+        "최소 집행 기간: 7일 (일 50,000원"
+      ],
+      "no_longer_detected": [
+        "CPP 7"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
     },
     {
       "id": "review-97b5c5ae8cdb5f2f9970",
@@ -191,6 +256,22 @@
       "not_observed_again": true
     },
     {
+      "id": "review-5ee3a4b65f53003a1ef7",
+      "media_id": "gcoo",
+      "media_name": "지쿠 GCOO",
+      "field": "rates",
+      "added": [
+        "CPM 3,000원",
+        "CPM 8,000원"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
+    },
+    {
       "id": "review-ab24aa9b063e0cca499d",
       "media_id": "gcoo",
       "media_name": "지쿠 GCOO",
@@ -223,6 +304,22 @@
       "not_observed_again": true
     },
     {
+      "id": "review-ef0fdcf4b427f945a685",
+      "media_id": "cashmore",
+      "media_name": "캐시모어",
+      "field": "contacts",
+      "added": [
+        "contact@adrop.io",
+        "hello@cashmore.kr"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01K4SFE3DQK48M4S8PZ2M0NAD4",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
+    },
+    {
       "id": "review-6aabbb4737d1abda5411",
       "media_id": "caredoc",
       "media_name": "케어닥",
@@ -253,6 +350,36 @@
       "first_seen": "2026-10-29T01:05:21+00:00",
       "last_seen": "2026-10-29T01:05:21+00:00",
       "not_observed_again": true
+    },
+    {
+      "id": "review-68819893c38b3a66c31e",
+      "media_id": "petpee",
+      "media_name": "펫피",
+      "field": "products",
+      "added": [
+        "리워드"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KGE3JK1KXQ55EFCAPE1P9A2N",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
+    },
+    {
+      "id": "review-a2650dcc60436a341110",
+      "media_id": "petpee",
+      "media_name": "펫피",
+      "field": "contacts",
+      "added": [],
+      "no_longer_detected": [
+        "contact@adrop.io"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KGE3JK1KXQ55EFCAPE1P9A2N",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-10-30T01:08:16+00:00",
+      "last_seen": "2026-10-30T01:08:16+00:00"
     },
     {
       "id": "review-0da1b12685c20d667b1e",
