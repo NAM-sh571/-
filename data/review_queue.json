@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T00:50:22+00:00",
+  "generated_at": "2026-11-03T00:51:17+00:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
-    "total": 58,
-    "pending": 58,
+    "total": 59,
+    "pending": 59,
     "reviewed": 0
   },
   "items": [
@@ -27,7 +27,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-8592b5d4c914eb727044",
@@ -84,7 +85,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-e00b90ceb01350e072ab",
@@ -101,7 +103,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-082cd1ce01c590590cec",
@@ -282,7 +285,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-d60047e5b5eed3205d3c",
@@ -302,6 +306,25 @@
       "not_observed_again": true
     },
     {
+      "id": "review-10de616cd59fa5147c10",
+      "media_id": "singles",
+      "media_name": "싱글즈 SINGLES",
+      "field": "source_url",
+      "added": [
+        "https://thebookmediagroup.com/wp-content/uploads/2026/09/2026-%EC%8B%B1%EA%B8%80%EC%A6%88-%EB%AF%B8%EB%94%94%EC%96%B4%ED%82%B7.pdf"
+      ],
+      "no_longer_detected": [
+        "https://thebookmediagroup.com/wp-content/uploads/2025/12/2026-%EC%8B%B1%EA%B8%80%EC%A6%88-%EB%AF%B8%EB%94%94%EC%96%B4%ED%82%B7.pdf"
+      ],
+      "source_url": "https://thebookmediagroup.com/wp-content/uploads/2026/09/2026-%EC%8B%B1%EA%B8%80%EC%A6%88-%EB%AF%B8%EB%94%94%EC%96%B4%ED%82%B7.pdf",
+      "verification": "unverified_source_url_change",
+      "status": "pending",
+      "first_seen": "2026-11-03T00:51:17+00:00",
+      "last_seen": "2026-11-03T00:51:17+00:00",
+      "reviewed_at": "",
+      "review_note": ""
+    },
+    {
       "id": "review-3b50e6c51da3e56dd367",
       "media_id": "act",
       "media_name": "액트 ACT",
@@ -316,7 +339,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-219e4266d6f39a909956",
@@ -381,7 +405,8 @@
       "first_seen": "2026-10-31T01:06:24+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-52e51e28605a1d87ee25",
@@ -398,7 +423,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-dd63e450a0b4297948e4",
@@ -433,7 +459,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-0014a342b6fe73050baf",
@@ -450,7 +477,8 @@
       "first_seen": "2026-10-29T09:27:14+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-4cc0e50bbfa3b7980b11",
@@ -483,7 +511,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-a042e8df22f2504a765c",
@@ -500,7 +529,8 @@
       "first_seen": "2026-10-29T09:27:14+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-e68bfe371fdc046f6376",
@@ -533,7 +563,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-ab24aa9b063e0cca499d",
@@ -566,7 +597,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-cf1c3e2991090ab121a4",
@@ -584,7 +616,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-6157d7d2834aafd566c3",
@@ -601,7 +634,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-669aeaaca42849f996ae",
@@ -637,7 +671,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-205d9d3044ec002160fd",
@@ -670,7 +705,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-ef0fdcf4b427f945a685",
@@ -704,7 +740,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-35f82bc66257f1113f68",
@@ -721,7 +758,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-6aabbb4737d1abda5411",
@@ -770,7 +808,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-c4510dd79e3874f31f13",
@@ -851,7 +890,8 @@
       "first_seen": "2026-10-29T01:05:21+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-bd17c426942ec7852594",
@@ -872,7 +912,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-db818d48589aede20823",
@@ -910,7 +951,8 @@
       "first_seen": "2026-10-31T01:06:24+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-b2d8c14b3b02cccf972d",
@@ -975,7 +1017,8 @@
       "first_seen": "2026-10-29T09:27:14+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-bf4845f478b8adf92327",
