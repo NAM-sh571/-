@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-03T09:47:23+09:00",
+  "decisions": [
+    {
+      "id": "review-39766f05ac4dd4048928",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRCZ5JYPWYHYR7QEQVZXRYEE",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-902ac7747c94d9d55285",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JVTVQ64FY5KZ7AP1HKGEP685",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-e93f709c5c9f2e18e247",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01K4KWCD6A12C09DG0W161GM6Q",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-8e6d549bb7ba9dcb8511",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "어피티 2026.10 공식 광고·제휴 페이지 확인 후 DB 공식 링크로 갱신. 중개 페이지의 단가·이메일·문서버전 추출은 공식 최신 변경 근거가 아니므로 반영하지 않음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-bf6236f1aecdadbd4715",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "어피티 2026.10 공식 광고·제휴 페이지 확인 후 DB 공식 링크로 갱신. 중개 페이지의 단가·이메일·문서버전 추출은 공식 최신 변경 근거가 아니므로 반영하지 않음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-12b03ca93791383562ad",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-48848df6c7af9f3b3bb6",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-f8c065accb7cb1dfc43e",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-e2aedd1cd01c01fac6c5",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "제3자 소개서의 문의처 변경 단서만 존재. 원매체 공식 담당자 변경 증빙이 없어 원본 데이터 유지.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KGGVP30E5GKWRBPJT7Y8FH1K",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-7f8933f27a31d0a2ad06",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-3aacf0e475c1f7f65302",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-864ebb6126a5f0d9876a",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-6190de312d89b795cee5",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-2e2b14ccca8844f1cb2a",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01K4SFE3DQK48M4S8PZ2M0NAD4",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-23efefa015fa164a97b5",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KGE3JK1KXQ55EFCAPE1P9A2N",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-28e113495513e9f24e7f",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-cf767b95d9e60a17f623",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-dde5856d1b83c5846539",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KK8SKD96VDMK7PYA64BZDNKS",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-e7fb4de5ae79b3726c24",
+      "status": "deferred",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KK8SKD96VDMK7PYA64BZDNKS",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-7bec214f4db5c6d44392",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "어피티 2026.10 공식 광고·제휴 페이지 확인 후 DB 공식 링크로 갱신. 중개 페이지의 단가·이메일·문서버전 추출은 공식 최신 변경 근거가 아니므로 반영하지 않음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-97b5c5ae8cdb5f2f9970",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "어피티 2026.10 공식 광고·제휴 페이지 확인 후 DB 공식 링크로 갱신. 중개 페이지의 단가·이메일·문서버전 추출은 공식 최신 변경 근거가 아니므로 반영하지 않음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-a45d2aea8c852388d325",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "어피티 2026.10 공식 광고·제휴 페이지 확인 후 DB 공식 링크로 갱신. 중개 페이지의 단가·이메일·문서버전 추출은 공식 최신 변경 근거가 아니므로 반영하지 않음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JHPQZAP5AXK742MQPF257512",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-61476b3f66f0b5a29b0e",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-6c87cd148b3d69874b28",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-22ba3e5979d65973c685",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-5ee3a4b65f53003a1ef7",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01JJ8WM83T2A0FTF23JSEDS0Q2",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-241af64ea7b7f4b6ea6f",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-03142a814e158db6235f",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-29edde285bfeb5176346",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "decision": "no_unverified_catalog_overwrite"
+    },
+    {
+      "id": "review-c4ff7f62bf65c28c4ee5",
+      "status": "reviewed",
+      "reviewed_at": "2026-11-03T09:47:23+09:00",
+      "review_note": "다음 응답에서 재현되지 않은 자동 추출 차이. 페이지/문서의 실제 개정 증거가 없고 원매체 공식 출처도 확인되지 않아 카탈로그 변경 없음.",
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "decision": "no_unverified_catalog_overwrite"
+    }
+  ]
+}

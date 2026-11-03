@@ -21,7 +21,9 @@ def build_review_queue(states, previous, decisions, now):
                   'source_url':state.get('source_url',''),
                   'verification':delta.get('verification','unverified_extraction'),
                   'status':decision.get('status') or prior.get('status','pending'),
-                  'first_seen':prior.get('first_seen',now),'last_seen':now}
+                  'first_seen':prior.get('first_seen',now),'last_seen':now,
+                  'reviewed_at':decision.get('reviewed_at') or prior.get('reviewed_at',''),
+                  'review_note':decision.get('review_note') or prior.get('review_note','')}
             entries.append(item)
     # Keep pending issues while new scans observe no change, until reviewed.
     for identifier,item in old.items():

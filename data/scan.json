@@ -3930,7 +3930,8 @@
   ],
   "review_summary": {
     "total": 70,
-    "pending": 70,
-    "reviewed": 0
-  }
+    "pending": 40,
+    "reviewed": 30
+  },
+  "review_updated_at": "2026-11-03T09:47:23+09:00"
 }
