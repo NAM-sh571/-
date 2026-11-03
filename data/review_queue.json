@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T00:51:17+00:00",
+  "generated_at": "2026-11-03T01:12:56+00:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
     "total": 59,
@@ -322,7 +322,8 @@
       "first_seen": "2026-11-03T00:51:17+00:00",
       "last_seen": "2026-11-03T00:51:17+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-3b50e6c51da3e56dd367",
