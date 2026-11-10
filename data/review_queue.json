@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T00:18:39+00:00",
+  "generated_at": "2026-11-10T01:12:27+00:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
-    "total": 85,
-    "pending": 85,
+    "total": 86,
+    "pending": 86,
     "reviewed": 0
   },
   "items": [
@@ -61,7 +61,8 @@
       "first_seen": "2026-11-08T01:14:14+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-9b8e817e48e31fbfb2c2",
@@ -100,7 +101,8 @@
       "first_seen": "2026-11-01T01:17:41+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-f6f25eb5f1f902c8363b",
@@ -420,7 +422,8 @@
       "first_seen": "2026-11-06T01:19:13+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-0bdeba7843211f847b31",
@@ -455,7 +458,8 @@
       "first_seen": "2026-11-01T01:17:41+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-2955c4965333d43a50b9",
@@ -506,7 +510,8 @@
       "first_seen": "2026-11-10T00:18:39+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-1f48248efaf7efc0bc76",
@@ -559,7 +564,8 @@
       "first_seen": "2026-11-10T00:18:39+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-924e823801a40d55f476",
@@ -897,7 +903,8 @@
       "first_seen": "2026-11-10T00:18:39+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-32b9f81c0fd10e97ca99",
@@ -1151,7 +1158,8 @@
       "first_seen": "2026-11-10T00:18:39+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-ef0fdcf4b427f945a685",
@@ -1169,7 +1177,8 @@
       "first_seen": "2026-10-30T01:08:16+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-f4d582bf5773aa1c8f8e",
@@ -1204,7 +1213,8 @@
       "first_seen": "2026-11-10T00:18:39+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-13d52e14bec625d8777e",
@@ -1242,7 +1252,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-4d8a9fe902ce0901b383",
@@ -1379,10 +1390,9 @@
       "verification": "unverified_extraction",
       "status": "pending",
       "first_seen": "2026-10-29T01:05:21+00:00",
-      "last_seen": "2026-11-03T00:50:22+00:00",
+      "last_seen": "2026-11-10T01:12:27+00:00",
       "reviewed_at": "",
-      "review_note": "",
-      "not_observed_again": true
+      "review_note": ""
     },
     {
       "id": "review-277d894984d66923dd6c",
@@ -1431,6 +1441,29 @@
       "reviewed_at": "",
       "review_note": "",
       "not_observed_again": true
+    },
+    {
+      "id": "review-93b2d9e782e6736682f9",
+      "media_id": "foodcon",
+      "media_name": "푸드콘",
+      "field": "rates",
+      "added": [
+        "CPM 1,100원",
+        "CPM 1,250원",
+        "CPM 2,500원",
+        "최소 집행 (1달) | 3,600,000원",
+        "최소 집행 (2주) | 2,000,000원"
+      ],
+      "no_longer_detected": [
+        "최소 집행 기간 / 금액 (VAT 별도) | 2주 / 2,000,000원"
+      ],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KRWW0HN9SSQ5C5RK40JG1HAW",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-11-10T01:12:27+00:00",
+      "last_seen": "2026-11-10T01:12:27+00:00",
+      "reviewed_at": "",
+      "review_note": ""
     },
     {
       "id": "review-bd17c426942ec7852594",
@@ -1508,7 +1541,8 @@
       "first_seen": "2026-10-29T01:05:21+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-87e6eed3d4e895e3b86e",
@@ -1525,7 +1559,8 @@
       "first_seen": "2026-11-10T00:18:39+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-bf4845f478b8adf92327",
