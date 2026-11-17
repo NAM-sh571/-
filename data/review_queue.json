@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T01:32:57+00:00",
+  "generated_at": "2026-11-17T09:26:51+09:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
     "total": 122,
-    "pending": 122,
-    "reviewed": 0
+    "pending": 92,
+    "reviewed": 30
   },
   "items": [
     {
@@ -36,12 +36,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-14T01:12:01+00:00",
       "last_seen": "2026-11-14T01:12:01+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -59,12 +59,12 @@
         "최소 집행 금액 | 1,000,000원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-13T01:18:59+00:00",
       "last_seen": "2026-11-13T01:18:59+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -81,11 +81,13 @@
         "최소 집행 | 1일 | 1,000,000원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-10-31T01:06:24+00:00",
       "last_seen": "2026-10-31T01:06:24+00:00",
-      "not_observed_again": true
+      "not_observed_again": true,
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정."
     },
     {
       "id": "review-85dd3f47009d04dc7212",
@@ -115,12 +117,12 @@
         "CPM 5,000원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-04T01:14:50+00:00",
       "last_seen": "2026-11-04T01:14:50+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -137,12 +139,12 @@
         "최소 집행 금액: 1,000,000원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-01T01:17:41+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -158,12 +160,12 @@
         "최소 집행 금액: 1,000,000원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K8A9RZ4YBPPGH04SC184BY30",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-05T01:15:21+00:00",
       "last_seen": "2026-11-05T01:15:21+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -373,12 +375,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01J5CQ1V6982FG03H70BMA3P0F",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-14T01:12:01+00:00",
       "last_seen": "2026-11-14T01:12:01+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -407,12 +409,12 @@
         "2025.11"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01J5CQ1V6982FG03H70BMA3P0F",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-15T01:17:04+00:00",
       "last_seen": "2026-11-15T01:17:04+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -603,12 +605,12 @@
         "2025.10"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K4KWCD6A12C09DG0W161GM6Q",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-13T01:18:59+00:00",
       "last_seen": "2026-11-13T01:18:59+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -621,12 +623,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01K4KWCD6A12C09DG0W161GM6Q",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-12T01:22:56+00:00",
       "last_seen": "2026-11-12T01:22:56+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -640,12 +642,12 @@
         "2025.10"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K4KWCD6A12C09DG0W161GM6Q",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-11T01:14:33+00:00",
       "last_seen": "2026-11-11T01:14:33+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -658,12 +660,12 @@
         "2025.07"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01K4KWCD6A12C09DG0W161GM6Q",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-16T01:32:57+00:00",
       "last_seen": "2026-11-16T01:32:57+00:00",
-      "reviewed_at": "",
-      "review_note": ""
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정."
     },
     {
       "id": "review-eeba9a8b30fc86260bfb",
@@ -676,12 +678,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01K4KWCD6A12C09DG0W161GM6Q",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-10T00:18:39+00:00",
       "last_seen": "2026-11-10T00:18:39+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -839,12 +841,12 @@
         "최소 광고 단가 | CPP 7일 기준 350,000원"
       ],
       "source_url": "https://uppity.co.kr/partnership/",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -875,12 +877,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-13T01:18:59+00:00",
       "last_seen": "2026-11-13T01:18:59+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -909,12 +911,12 @@
         "최소 집행 금액: 300만원 (타 상품 결합 시 100만원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -927,12 +929,12 @@
         "최소 집행금액: 300만원 (타 상품 결합 시 100만원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-13T01:18:59+00:00",
       "last_seen": "2026-11-13T01:18:59+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -982,12 +984,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-04T01:14:50+00:00",
       "last_seen": "2026-11-04T01:14:50+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1000,12 +1002,12 @@
         "최소 집행 300만원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KZQMA9GK8WM1RD2KX2710P0R",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-06T01:19:13+00:00",
       "last_seen": "2026-11-06T01:19:13+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1307,12 +1309,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-11T01:14:33+00:00",
       "last_seen": "2026-11-15T01:17:04+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1380,12 +1382,12 @@
         "최소 집행 금액: 월 500만원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-14T01:12:01+00:00",
       "last_seen": "2026-11-14T01:12:01+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1416,12 +1418,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-01T01:17:41+00:00",
       "last_seen": "2026-11-15T01:17:04+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1434,12 +1436,12 @@
         "최소 집행 금액: 월 500만원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-11T01:14:33+00:00",
       "last_seen": "2026-11-16T01:32:57+00:00",
-      "reviewed_at": "",
-      "review_note": ""
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정."
     },
     {
       "id": "review-d7c35effd1d852089815",
@@ -1452,12 +1454,12 @@
         "CPM 1,997원"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-05T01:15:21+00:00",
       "last_seen": "2026-11-05T01:15:21+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1473,12 +1475,12 @@
         "100원/건"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-03T00:50:22+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1492,12 +1494,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-13T01:18:59+00:00",
       "last_seen": "2026-11-13T01:18:59+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1619,12 +1621,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KKDYPBREXFHP199C8JPBEDED",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-12T01:22:56+00:00",
       "last_seen": "2026-11-12T01:22:56+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1656,12 +1658,12 @@
         "2026.07"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KKDYPBREXFHP199C8JPBEDED",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-11T01:14:33+00:00",
       "last_seen": "2026-11-11T01:14:33+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -1674,12 +1676,12 @@
         "2026.10.31"
       ],
       "source_url": "https://adrop.io/ko/adnote/kit/01KKDYPBREXFHP199C8JPBEDED",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-13T01:18:59+00:00",
       "last_seen": "2026-11-13T01:18:59+00:00",
-      "reviewed_at": "",
-      "review_note": "",
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정.",
       "not_observed_again": true
     },
     {
@@ -2249,12 +2251,12 @@
       ],
       "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KK8SKD96VDMK7PYA64BZDNKS",
-      "verification": "unverified_extraction",
-      "status": "pending",
+      "verification": "unconfirmed_official_change",
+      "status": "reviewed",
       "first_seen": "2026-11-16T01:32:57+00:00",
       "last_seen": "2026-11-16T01:32:57+00:00",
-      "reviewed_at": "",
-      "review_note": ""
+      "reviewed_at": "2026-11-17T09:26:51+09:00",
+      "review_note": "제3자 페이지 자동 추출 신호의 버전·가격·상품·연락처 표기 변동이며 원매체 공식 변경 근거 미확인. 상품·단가·연락처 자동 덮어쓰기 보류. 닥터다이어리 공식 광고문의는 별도 원매체 사이트에서 확인하여 카탈로그 수정."
     },
     {
       "id": "review-bf4845f478b8adf92327",
