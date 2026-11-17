@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T00:27:56+00:00",
+  "generated_at": "2026-11-17T01:22:12+00:00",
   "disclaimer": "자동 추출값은 미검증 후보로, 기존 매체 DB를 수정하지 않습니다.",
   "summary": {
-    "total": 101,
-    "pending": 96,
-    "reviewed": 5
+    "total": 98,
+    "pending": 97,
+    "reviewed": 1
   },
   "items": [
     {
@@ -95,7 +95,8 @@
       "first_seen": "2026-11-07T01:08:19+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-78f92a1dc4437daf7b3a",
@@ -309,7 +310,8 @@
       "first_seen": "2026-11-08T01:14:14+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-66bc9bd1bc7b612bb54f",
@@ -560,7 +562,8 @@
       "first_seen": "2026-11-17T00:27:56+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-ff69c59c3132fe602d91",
@@ -827,7 +830,8 @@
       "first_seen": "2026-11-05T01:15:21+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-01739c4c36b73de7a70f",
@@ -952,6 +956,25 @@
       "status": "pending",
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
+      "reviewed_at": "",
+      "review_note": "",
+      "not_observed_again": true
+    },
+    {
+      "id": "review-f393246848ec7a5517cd",
+      "media_id": "cardoc",
+      "media_name": "카닥",
+      "field": "rates",
+      "added": [
+        "100원/건",
+        "150원/건"
+      ],
+      "no_longer_detected": [],
+      "source_url": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
+      "verification": "unverified_extraction",
+      "status": "pending",
+      "first_seen": "2026-11-17T01:22:12+00:00",
+      "last_seen": "2026-11-17T01:22:12+00:00",
       "reviewed_at": "",
       "review_note": ""
     },
@@ -1227,7 +1250,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-4d8a9fe902ce0901b383",
@@ -1282,7 +1306,8 @@
       "first_seen": "2026-11-03T00:50:22+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-c079ab05a49dea89ab71",
@@ -1299,7 +1324,8 @@
       "first_seen": "2026-11-17T00:27:56+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-c4510dd79e3874f31f13",
@@ -1424,7 +1450,8 @@
       "first_seen": "2026-10-29T01:05:21+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-277d894984d66923dd6c",
@@ -1606,7 +1633,8 @@
       "first_seen": "2026-11-17T00:27:56+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-bd17c426942ec7852594",
@@ -1745,7 +1773,8 @@
       "first_seen": "2026-11-17T00:27:56+00:00",
       "last_seen": "2026-11-17T00:27:56+00:00",
       "reviewed_at": "",
-      "review_note": ""
+      "review_note": "",
+      "not_observed_again": true
     },
     {
       "id": "review-87e6eed3d4e895e3b86e",
@@ -1784,90 +1813,22 @@
       "not_observed_again": true
     },
     {
-      "id": "review-e93f709c5c9f2e18e247",
-      "media_id": "act",
-      "media_name": "액트 ACT",
-      "field": "document_versions",
-      "added": [
-        "2025.07"
-      ],
-      "no_longer_detected": [],
-      "source_url": "https://adrop.io/ko/adnote/kit/01K4KWCD6A12C09DG0W161GM6Q",
-      "verification": "unverified_extraction",
-      "status": "deferred",
-      "first_seen": "2026-11-17T00:27:56+00:00",
-      "last_seen": "2026-11-17T00:27:56+00:00",
-      "reviewed_at": "2026-11-03T09:47:23+09:00",
-      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신."
-    },
-    {
-      "id": "review-864ebb6126a5f0d9876a",
+      "id": "review-3aacf0e475c1f7f65302",
       "media_id": "cardoc",
       "media_name": "카닥",
-      "field": "rates",
-      "added": [],
-      "no_longer_detected": [
-        "100원/건",
-        "150원/건"
+      "field": "products",
+      "added": [
+        "네이티브",
+        "동영상"
       ],
+      "no_longer_detected": [],
       "source_url": "https://adrop.io/ko/adnote/kit/01KKAPCAKVDMT68576G9Q8GY1H",
       "verification": "unverified_extraction",
       "status": "deferred",
-      "first_seen": "2026-11-17T00:27:56+00:00",
-      "last_seen": "2026-11-17T00:27:56+00:00",
+      "first_seen": "2026-11-17T01:22:12+00:00",
+      "last_seen": "2026-11-17T01:22:12+00:00",
       "reviewed_at": "2026-11-03T09:47:23+09:00",
       "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신."
-    },
-    {
-      "id": "review-6190de312d89b795cee5",
-      "media_id": "kakaovx",
-      "media_name": "카카오 VX",
-      "field": "rates",
-      "added": [
-        "100원/건"
-      ],
-      "no_longer_detected": [],
-      "source_url": "https://adrop.io/ko/adnote/kit/01KBCC3TMPBR73ETHYK0QA5SG7",
-      "verification": "unverified_extraction",
-      "status": "deferred",
-      "first_seen": "2026-11-17T00:27:56+00:00",
-      "last_seen": "2026-11-17T00:27:56+00:00",
-      "reviewed_at": "2026-11-03T09:47:23+09:00",
-      "review_note": "애드노트 제3자 소개서에서 확인한 추출 후보. 공식 매체 원본의 신규 상품·단가·버전 변경으로 입증되지 않아 현재 카탈로그 유지, 원매체 확인 시 갱신."
-    },
-    {
-      "id": "review-23efefa015fa164a97b5",
-      "media_id": "petpee",
-      "media_name": "펫피",
-      "field": "contacts",
-      "added": [
-        "contact@adrop.io"
-      ],
-      "no_longer_detected": [],
-      "source_url": "https://adrop.io/ko/adnote/kit/01KGE3JK1KXQ55EFCAPE1P9A2N",
-      "verification": "unverified_extraction",
-      "status": "reviewed",
-      "first_seen": "2026-11-17T00:27:56+00:00",
-      "last_seen": "2026-11-17T00:27:56+00:00",
-      "reviewed_at": "2026-11-03T09:47:23+09:00",
-      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음."
-    },
-    {
-      "id": "review-dde5856d1b83c5846539",
-      "media_id": "hello100",
-      "media_name": "헬로100",
-      "field": "contacts",
-      "added": [
-        "contact@adrop.io"
-      ],
-      "no_longer_detected": [],
-      "source_url": "https://adrop.io/ko/adnote/kit/01KK8SKD96VDMK7PYA64BZDNKS",
-      "verification": "unverified_extraction",
-      "status": "reviewed",
-      "first_seen": "2026-11-17T00:27:56+00:00",
-      "last_seen": "2026-11-17T00:27:56+00:00",
-      "reviewed_at": "2026-11-03T09:47:23+09:00",
-      "review_note": "contact@adrop.io는 중개 플랫폼의 대표 문의처로 매체 직접 광고 담당자 주소가 아님. 원매체 연락처의 추가·삭제 근거가 없어 카탈로그 변경 없음."
     }
   ]
 }
